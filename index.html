@@ -137,9 +137,13 @@ function installOverlays(){
  }
  applyZoneVisibility();
 }
+function nomeEnGalego(value){
+ if(!value||value.toLowerCase().includes('unnamed on map'))return '(local sen nome no mapa — comproba no lugar)';
+ return value;
+}
 function onStop(event){
  const properties=event.features[0].properties,content=document.createElement('div');
- const title=document.createElement('div');title.className='popup-name';title.textContent=galician_name(properties.name);content.appendChild(title);
+ const title=document.createElement('div');title.className='popup-name';title.textContent=nomeEnGalego(properties.name);content.appendChild(title);
  const detail=document.createElement('div');detail.textContent='Zona '+properties.zone+' · Parada '+properties.order+' · '+properties.category+' · '+properties.address;content.appendChild(detail);
  const link=document.createElement('a');link.className='popup-link';link.href='https://www.openstreetmap.org/'+properties.osmType+'/'+properties.osm_id;link.target='_blank';link.rel='noopener';link.textContent='Ver rexistro en OpenStreetMap';content.appendChild(link);
  const button=document.createElement('button');button.type='button';button.className='popup-action';button.textContent=visited[properties.code]?'✓ Xa visitado · oculto':'Marcar como visitado e ocultar';button.disabled=!!visited[properties.code];
