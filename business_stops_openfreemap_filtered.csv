@@ -1,273 +1,273 @@
-﻿zone,visit_order,stop_code,business_name,category,mapped_address,latitude,longitude,openstreetmap_url,visited,outcome_notes
-1,1,Z1-01,Cafecito a Otro Nivel,cafe,Rúa de Antonio Soage Jalda 15,42.2661395,-8.7804686,https://www.openstreetmap.org/node/6092327129,,
-1,2,Z1-02,Centro de Saúde Cangas,clinic,Rúa de Antonio Soage Jalda,42.2658115,-8.7803031,https://www.openstreetmap.org/way/229832883,,
-1,3,Z1-03,+ Madera,bar,near Rúa Ferrol,42.2657839,-8.7797742,https://www.openstreetmap.org/node/4102081764,,
-1,4,Z1-04,Roa,cafe,near Rúa Ferrol,42.2659682,-8.7796980,https://www.openstreetmap.org/node/4102081763,,
-1,5,Z1-05,Hollywood,hotel,near Rúa Gondomar,42.2655579,-8.7795722,https://www.openstreetmap.org/way/397522969,,
-1,6,Z1-06,(unnamed on map),convenience,near Rúa Gondomar,42.2653379,-8.7795857,https://www.openstreetmap.org/node/4102081765,,
-1,7,Z1-07,Rogelio Iglesias,bakery,near Avenida de Marín,42.2653055,-8.7793140,https://www.openstreetmap.org/node/2490261815,,
-1,8,Z1-08,Café Bar Lombok,cafe,Rúa Baiona 13,42.2649237,-8.7793707,https://www.openstreetmap.org/node/6260099451,,
-1,9,Z1-09,Rewachi,pet,Avenida de Marín 11,42.2649303,-8.7796727,https://www.openstreetmap.org/node/2490261818,,
-1,10,Z1-10,Maraxe,books,near Avenida de Marín,42.2647645,-8.7797098,https://www.openstreetmap.org/node/1905921633,,
-1,11,Z1-11,Döner Kebab,fast_food,near Avenida de Marín,42.2647100,-8.7797210,https://www.openstreetmap.org/node/11645930437,,
-1,12,Z1-12,Oasis,cafe,near Avenida de Marín,42.2646496,-8.7797277,https://www.openstreetmap.org/node/3991859387,,
-1,13,Z1-13,Jucamar,hotel,Avenida de Marín 5,42.2646180,-8.7798926,https://www.openstreetmap.org/way/396274060,,
-1,14,Z1-14,Oficina de Correos,post_office,near Rúa Baiona,42.2647749,-8.7801626,https://www.openstreetmap.org/node/2464170136,,
-1,15,Z1-15,Shambala,supermarket,near Rúa Baiona,42.2649600,-8.7802315,https://www.openstreetmap.org/node/4102081766,,
-1,16,Z1-16,O Forno de Juan (Panadería-Cafetería),pastry,Rúa Ferrol 3,42.2650865,-8.7801960,https://www.openstreetmap.org/node/6915856067,,
-1,17,Z1-17,Pizza Móvil,fast_food,near Rúa Baiona,42.2649497,-8.7807111,https://www.openstreetmap.org/node/2490261814,,
-1,18,Z1-18,(unnamed on map),laundry,near Rúa Baiona,42.2649433,-8.7810654,https://www.openstreetmap.org/node/4102081777,,
-1,19,Z1-19,ALUGA Inmobiliaria,estate_agent,Rúa Baiona 22,42.2649448,-8.7811585,https://www.openstreetmap.org/node/4366495861,,
-1,20,Z1-20,MyFit Sport,fitness_centre,Rúa Baiona 30,42.2650387,-8.7820556,https://www.openstreetmap.org/node/6331229807,,
-1,21,Z1-21,O Artesano,shoemaker,near Rúa de San Xosé,42.2656970,-8.7837771,https://www.openstreetmap.org/node/1904209325,,
-1,22,Z1-22,Tere Riobó,hairdresser,near Rúa de San Xosé,42.2656167,-8.7839588,https://www.openstreetmap.org/node/2472336275,,
-1,23,Z1-23,(unnamed on map),pharmacy,near Rúa de San Xosé,42.2659186,-8.7838643,https://www.openstreetmap.org/node/1904209327,,
-1,24,Z1-24,La Frutería de Milucho,greengrocer,near Avenida de Galicia,42.2659053,-8.7841470,https://www.openstreetmap.org/node/1904209323,,
-1,25,Z1-25,Freesia,florist,Rúa de San Xosé,42.2662732,-8.7832529,https://www.openstreetmap.org/node/2464170103,,
-1,26,Z1-26,Abadia Formacion,computer,Rúa de San Xosé 43,42.2664384,-8.7833451,https://www.openstreetmap.org/node/4102553489,,
-1,27,Z1-27,Taller Lucho,motorcycle,Rúa de San Xosé 45,42.2665354,-8.7832536,https://www.openstreetmap.org/node/4102464799,,
-1,28,Z1-28,Malopa,florist,Rúa de San Xosé 47,42.2666861,-8.7831268,https://www.openstreetmap.org/node/2464170099,,
-1,29,Z1-29,Espazo de traballo Trebella,company,Rúa Andalucía 10,42.2670902,-8.7835916,https://www.openstreetmap.org/node/6593302222,,
-1,30,Z1-30,O Tostadeiro,cafe,Avenida de Lugo 3,42.2673758,-8.7832408,https://www.openstreetmap.org/node/1904209336,,
-1,31,Z1-31,Auditorio Municipal Xosé Manuel Pazos de Cangas,theatre,Avenida de Lugo,42.2676753,-8.7832295,https://www.openstreetmap.org/way/179974313,,
-1,32,Z1-32,Cineclube Cangas,cinema,Avenida de Lugo 27,42.2677513,-8.7830196,https://www.openstreetmap.org/node/6027994265,,
-1,33,Z1-33,Cafetería Cangas,cafe,Avenida de Lugo,42.2677279,-8.7839126,https://www.openstreetmap.org/node/1904209342,,
-1,34,Z1-34,Mistura,hairdresser,near Praza de Andalucía,42.2668800,-8.7843331,https://www.openstreetmap.org/node/3398003493,,
-1,35,Z1-35,Taller mecánico Nosauto Cangas,car_repair,Avenida de Galicia 3,42.2669295,-8.7853045,https://www.openstreetmap.org/node/6591604406,,
-1,36,Z1-36,Senin Vigo,pharmacy,near Avenida da Coruña,42.2676769,-8.7856976,https://www.openstreetmap.org/node/3486694116,,
-1,37,Z1-37,Furancho de Ximeu,restaurant,near Rúa Alcalde Agustín Etcheverri,42.2697885,-8.7839063,https://www.openstreetmap.org/node/13695085298,,
-1,38,Z1-38,Piscina Municipal de Cangas A Balea,sports_centre,18,42.2729530,-8.7825056,https://www.openstreetmap.org/way/309418378,,
-1,39,Z1-39,La Fe,carpenter,near Camiño do Sistro,42.2727632,-8.7789136,https://www.openstreetmap.org/way/844850962,,
-1,40,Z1-40,Repsol Butano,fuel,near Camiño de Reboredo,42.2717157,-8.7768406,https://www.openstreetmap.org/node/2945941013,,
-1,41,Z1-41,Asociación Cultural Peis d'Hos,association,near Avenida de Lugo,42.2708499,-8.7792946,https://www.openstreetmap.org/node/11521607034,,
-1,42,Z1-42,Froiz,supermarket,near Rúa Reboredo,42.2666863,-8.7788372,https://www.openstreetmap.org/node/2383762677,,
-1,43,Z1-43,The Trooper,nightclub,Avenida de Marín 29,42.2663875,-8.7793338,https://www.openstreetmap.org/node/13377913630,,
-1,44,Z1-44,A toda Brasa,restaurant,near Rúa Redondela,42.2660611,-8.7790504,https://www.openstreetmap.org/node/9464251273,,
-1,45,Z1-45,Bicicletas Galibike,yes,Rúa Redondela 9,42.2660279,-8.7787554,https://www.openstreetmap.org/node/9464221885,,
-2,1,Z2-01,Estudio 26,hairdresser,near Rúa Valentín Losada,42.2642691,-8.7842211,https://www.openstreetmap.org/node/11158842399,,
-2,2,Z2-02,Moda Kyss,clothes,Rúa Valentín Losada,42.2644410,-8.7842210,https://www.openstreetmap.org/node/2113071316,,
-2,3,Z2-03,Martinez Menduiña,dentist,near Rúa Colón,42.2645165,-8.7841645,https://www.openstreetmap.org/node/11158739341,,
-2,4,Z2-04,Mercería Agusmari,dressmaker,Rúa Colón,42.2644833,-8.7841127,https://www.openstreetmap.org/node/2122366178,,
-2,5,Z2-05,Celeste Graña,hairdresser,near Rúa Estrela,42.2645485,-8.7843313,https://www.openstreetmap.org/node/11158872107,,
-2,6,Z2-06,(unnamed on map),hairdresser,Rúa Estrella,42.2646904,-8.7842638,https://www.openstreetmap.org/node/4102657085,,
-2,7,Z2-07,Antoxo,bakery,Rúa Estrella,42.2647415,-8.7841761,https://www.openstreetmap.org/node/2113071315,,
-2,8,Z2-08,Mesón Alboio,restaurant,Rúa de San Xosé 25,42.2647279,-8.7840154,https://www.openstreetmap.org/node/2357503248,,
-2,9,Z2-09,Avilés,hairdresser,Rúa de San Xosé,42.2648392,-8.7838849,https://www.openstreetmap.org/node/2122366150,,
-2,10,Z2-10,Sole,butcher,Rúa de San Xosé,42.2649215,-8.7839212,https://www.openstreetmap.org/node/2122366169,,
-2,11,Z2-11,(unnamed on map),clothes,Rúa de San Xosé,42.2650947,-8.7838825,https://www.openstreetmap.org/node/4102048493,,
-2,12,Z2-12,(unnamed on map),stationery,near Rúa de San Xosé,42.2652455,-8.7840172,https://www.openstreetmap.org/node/2480224275,,
-2,13,Z2-13,Aguamar,jewelry,near Rúa de San Xosé,42.2653258,-8.7838038,https://www.openstreetmap.org/node/2472480659,,
-2,14,Z2-14,O galo da Loli,restaurant,near Rúa da Fonte do Galo,42.2644933,-8.7833400,https://www.openstreetmap.org/node/3166175844,,
-2,15,Z2-15,Pistón Motos,motorcycle,Rua do Lirio,42.2643780,-8.7836605,https://www.openstreetmap.org/node/2472336269,,
-2,16,Z2-16,Pistón Motos,bicycle,Rua do Lirio,42.2643462,-8.7836394,https://www.openstreetmap.org/node/2472336264,,
-2,17,Z2-17,A Esmorga,books,Rúa de San Xosé,42.2643199,-8.7837854,https://www.openstreetmap.org/node/2122605207,,
-2,18,Z2-18,Glamour lenceria,clothes,Rúa de San Xosé,42.2642975,-8.7838980,https://www.openstreetmap.org/node/4102081773,,
-2,19,Z2-19,Azul cebra,yes,Rúa de San Xosé,42.2643737,-8.7839076,https://www.openstreetmap.org/node/4102081774,,
-2,20,Z2-20,BYS,hairdresser,Rúa de San Xosé,42.2644133,-8.7838133,https://www.openstreetmap.org/node/2472336271,,
-2,21,Z2-21,Irisar,Imprenta,Rúa de San Xosé 11,42.2642086,-8.7838772,https://www.openstreetmap.org/node/4102081772,,
-2,22,Z2-22,O alirio,brewery,Rua do Lirio,42.2642139,-8.7836545,https://www.openstreetmap.org/node/2122605187,,
-2,23,Z2-23,The Vape Room,e-cigarette,near Rúa do Sol,42.2641779,-8.7834956,https://www.openstreetmap.org/node/11158758377,,
-2,24,Z2-24,Cousiñas de kela,clothes,Rúa do Sol,42.2641422,-8.7833174,https://www.openstreetmap.org/node/2472336250,,
-2,25,Z2-25,Panadería - pastelería Buenas Migas Store,bakery,Rúa de San Xosé 10,42.2640440,-8.7837455,https://www.openstreetmap.org/node/8987942517,,
-2,26,Z2-26,(unnamed on map),clothes,near Rúa de San Xosé,42.2637740,-8.7836598,https://www.openstreetmap.org/node/4102048492,,
-2,27,Z2-27,(unnamed on map),clothes,near Rúa de San Xosé,42.2637025,-8.7836382,https://www.openstreetmap.org/node/2467764360,,
-2,28,Z2-28,Optica Studio,optician,near Rúa de San Xosé,42.2636445,-8.7836798,https://www.openstreetmap.org/node/11158853943,,
-2,29,Z2-29,Casa Porron,bar,near Avenida Eugenio Sequeiros,42.2636654,-8.7835418,https://www.openstreetmap.org/node/11158853942,,
-2,30,Z2-30,Rabieta,cafe,near Avenida Eugenio Sequeiros,42.2636802,-8.7833988,https://www.openstreetmap.org/node/11158829028,,
-2,31,Z2-31,Zapateria Babel,shoes,near Avenida Eugenio Sequeiros,42.2637049,-8.7831581,https://www.openstreetmap.org/node/11158762035,,
-2,32,Z2-32,(unnamed on map),newsagent,Avenida Eugenio Sequeiros,42.2636673,-8.7839955,https://www.openstreetmap.org/node/4102048496,,
-2,33,Z2-33,O kiosquillo,kiosk,near Avenida Eugenio Sequeiros,42.2636009,-8.7840218,https://www.openstreetmap.org/node/11158849585,,
-2,34,Z2-34,O gran tino,tobacco,Rúa Valentín Losada,42.2637747,-8.7841591,https://www.openstreetmap.org/node/4102081775,,
-2,35,Z2-35,(unnamed on map),tobacco,near Rúa Valentín Losada,42.2637989,-8.7841626,https://www.openstreetmap.org/node/4102048494,,
-2,36,Z2-36,(unnamed on map),bakery,Rúa Valentín Losada,42.2638913,-8.7840870,https://www.openstreetmap.org/node/2464170116,,
-2,37,Z2-37,tenta 100,variety_store,Avenida Eugenio Sequeiros 5,42.2635880,-8.7843850,https://www.openstreetmap.org/node/4102048505,,
-2,38,Z2-38,Goluts,kiosk,Avenida Eugenio Sequeiros 4,42.2635773,-8.7844643,https://www.openstreetmap.org/node/4102048503,,
-2,39,Z2-39,Mercarroupa,clothes,near Avenida Eduardo Vicenti,42.2635424,-8.7845602,https://www.openstreetmap.org/node/11158837618,,
-2,40,Z2-40,Origen arte floral,florist,Rúa Real,42.2636633,-8.7848622,https://www.openstreetmap.org/node/4102048498,,
-2,41,Z2-41,Meson O Batel,cafe,Rúa Real,42.2637049,-8.7848845,https://www.openstreetmap.org/node/2113071312,,
-2,42,Z2-42,Jose,butcher,Rúa Real,42.2637732,-8.7849246,https://www.openstreetmap.org/node/2113071311,,
-2,43,Z2-43,Viláfer,books,Rúa Real,42.2638785,-8.7851496,https://www.openstreetmap.org/node/2113071301,,
-2,44,Z2-44,A Parrocha,restaurant,Rua Benigno Soage,42.2641270,-8.7849158,https://www.openstreetmap.org/node/2113071310,,
-2,45,Z2-45,Mascotas,pet,Rúa Estrella,42.2646032,-8.7847882,https://www.openstreetmap.org/node/2972634902,,
-2,46,Z2-46,O Forno de Pablo,bakery,Rúa Real,42.2657174,-8.7856505,https://www.openstreetmap.org/node/6283108097,,
-3,1,Z3-01,(unnamed on map),cafe,near Travesía San Francisco,42.2640424,-8.7818095,https://www.openstreetmap.org/node/4102081769,,
-3,2,Z3-02,Óptica Marín,optician,Rúa Méndez Núñez,42.2640440,-8.7817042,https://www.openstreetmap.org/node/4102081768,,
-3,3,Z3-03,S@t Gescom,hardware,near Rúa Méndez Núñez,42.2639419,-8.7816300,https://www.openstreetmap.org/node/2378183386,,
-3,4,Z3-04,Casa roja,estate_agent,near Rúa Méndez Núñez,42.2639221,-8.7817153,https://www.openstreetmap.org/node/11158834908,,
-3,5,Z3-05,Hortelan,yes,near Rúa Méndez Núñez,42.2639258,-8.7817196,https://www.openstreetmap.org/node/11158776725,,
-3,6,Z3-06,Bruno Rdguez,hairdresser,near Rúa Méndez Núñez,42.2638784,-8.7818339,https://www.openstreetmap.org/node/4959040743,,
-3,7,Z3-07,Pastoriza Calvar,estate_agent,near Rúa Méndez Núñez,42.2638621,-8.7819292,https://www.openstreetmap.org/node/11158783423,,
-3,8,Z3-08,Foto Marcial,photo,near Avenida Eugenio Sequeiros,42.2638374,-8.7819947,https://www.openstreetmap.org/node/11158742695,,
-3,9,Z3-09,Bonin 6,hairdresser,near Avenida Eugenio Sequeiros,42.2637767,-8.7820125,https://www.openstreetmap.org/node/2459088293,,
-3,10,Z3-10,La Perla Negra,cafe,near Avenida Eugenio Sequeiros,42.2638595,-8.7821890,https://www.openstreetmap.org/node/4102048490,,
-3,11,Z3-11,Duende,clothes,Eirado do Sinal,42.2639436,-8.7821295,https://www.openstreetmap.org/node/4102081767,,
-3,12,Z3-12,Eroski Viaxes,travel_agency,Eirado do Sinal,42.2640107,-8.7820649,https://www.openstreetmap.org/node/2459088292,,
-3,13,Z3-13,José,butcher,near Rúa do Sol,42.2641465,-8.7819043,https://www.openstreetmap.org/node/2122608399,,
-3,14,Z3-14,(unnamed on map),hairdresser,near Rúa do Sol,42.2642262,-8.7818693,https://www.openstreetmap.org/node/4102081771,,
-3,15,Z3-15,(unnamed on map),clothes,near Rúa do Sol,42.2642172,-8.7817662,https://www.openstreetmap.org/node/4102081770,,
-3,16,Z3-16,Tapería Sol Poniente,restaurant,Rúa de Antonio Nores 4,42.2641877,-8.7816210,https://www.openstreetmap.org/node/2122608417,,
-3,17,Z3-17,Pensión Belén,guest_house,near Rúa de Antonio Nores,42.2643100,-8.7813815,https://www.openstreetmap.org/way/396274058,,
-3,18,Z3-18,O Ghato de Mar,pub,near Rúa de Antonio Nores,42.2645224,-8.7813956,https://www.openstreetmap.org/node/4565079760,,
-3,19,Z3-19,Hema,jewelry,15,42.2640997,-8.7813348,https://www.openstreetmap.org/node/2378183356,,
-3,20,Z3-20,Venecia,pastry,17,42.2641075,-8.7812601,https://www.openstreetmap.org/node/2378183384,,
-3,21,Z3-21,Gioli,hairdresser,18,42.2639342,-8.7811353,https://www.openstreetmap.org/node/2378183385,,
-3,22,Z3-22,O Cangaceiro,cafe,near Rúa Méndez Núñez,42.2639418,-8.7810372,https://www.openstreetmap.org/node/2469084792,,
-3,23,Z3-23,Movil Phone,mobile_phone,near Rúa Méndez Núñez,42.2639569,-8.7809656,https://www.openstreetmap.org/node/11158786125,,
-3,24,Z3-24,General Optica,optician,near Praza da Deputación,42.2639658,-8.7808643,https://www.openstreetmap.org/node/11158773280,,
-3,25,Z3-25,(unnamed on map),greengrocer,near Paseo Castelao,42.2641875,-8.7802183,https://www.openstreetmap.org/node/2383762714,,
-3,26,Z3-26,(unnamed on map),greengrocer,near Rúa Méndez Núñez,42.2641899,-8.7800730,https://www.openstreetmap.org/node/2383762716,,
-3,27,Z3-27,La bodega de Maria,cafe,Praza das Pontes 35,42.2639066,-8.7797404,https://www.openstreetmap.org/node/2456834045,,
-3,28,Z3-28,O zapato chispón,shoes,near Rúa Méndez Núñez,42.2638476,-8.7815864,https://www.openstreetmap.org/node/2459088289,,
-3,29,Z3-29,Eroski,supermarket,Eirado do Sinal 5,42.2642276,-8.7820979,https://www.openstreetmap.org/node/1908208557,,
-3,30,Z3-30,O eirado,cafe,Eirado do Sinal,42.2642028,-8.7821599,https://www.openstreetmap.org/node/2459088291,,
-3,31,Z3-31,La Marina,cafe,Eirado do Sinal,42.2642022,-8.7822064,https://www.openstreetmap.org/node/2459088290,,
-3,32,Z3-32,Ale ali,shoes,near Eirado do Sinal,42.2642106,-8.7823573,https://www.openstreetmap.org/node/11158769520,,
-3,33,Z3-33,Pizzería Baratto,restaurant,Eirado do Sinal,42.2642073,-8.7823893,https://www.openstreetmap.org/node/2122608430,,
-3,34,Z3-34,Dimaro,bar,near Rúa do Sol,42.2641531,-8.7824830,https://www.openstreetmap.org/node/11158744187,,
-3,35,Z3-35,Leiro,hairdresser,Rúa Retama,42.2640535,-8.7826592,https://www.openstreetmap.org/node/2459088288,,
-3,36,Z3-36,Medora,bar,Rúa do Sol,42.2641376,-8.7827804,https://www.openstreetmap.org/node/2469084813,,
-3,37,Z3-37,Tapería O Pelao,restaurant,Rúa do Sol 29,42.2641898,-8.7827323,https://www.openstreetmap.org/node/2122608446,,
-3,38,Z3-38,Sipi nopi,clothes,Rúa do Sol,42.2641919,-8.7829489,https://www.openstreetmap.org/node/2472336279,,
-3,39,Z3-39,Airiños,hotel,Avenida Eugenio Sequeiros 30,42.2639325,-8.7825766,https://www.openstreetmap.org/way/397522968,,
-3,40,Z3-40,Airiños,cafe,near Rúa Marina,42.2638257,-8.7825131,https://www.openstreetmap.org/node/4102048491,,
-3,41,Z3-41,Chocolatier,chocolate,near Rúa Marina,42.2639019,-8.7824076,https://www.openstreetmap.org/node/11158844134,,
-3,42,Z3-42,stylo,hairdresser,Eirado do Sinal,42.2639857,-8.7823602,https://www.openstreetmap.org/node/2472336248,,
-3,43,Z3-43,Joyeria relojeria Fernandez,jewelry,near Avenida Eugenio Sequeiros,42.2637607,-8.7827576,https://www.openstreetmap.org/node/11158829026,,
-3,44,Z3-44,Cangas Galicia,gift,near Avenida Eugenio Sequeiros,42.2637519,-8.7827915,https://www.openstreetmap.org/node/11158829027,,
-3,45,Z3-45,Complementos Blanca,jewelry,near Avenida Eugenio Sequeiros,42.2637249,-8.7829479,https://www.openstreetmap.org/node/11158830497,,
-4,1,Z4-01,(unnamed on map),pub,near Avenida de Ourense,42.2634164,-8.7748330,https://www.openstreetmap.org/node/13001773671,,
-4,2,Z4-02,Casa Eladio,restaurant,near Rúa Félix Ozámiz,42.2638714,-8.7756247,https://www.openstreetmap.org/node/2464170143,,
-4,3,Z4-03,(unnamed on map),sawmill,near Avenida de Ourense,42.2642211,-8.7764179,https://www.openstreetmap.org/way/912396263,,
-4,4,Z4-04,Argólide,bar,near Rúa Félix Ozámiz,42.2639796,-8.7767400,https://www.openstreetmap.org/node/2479992428,,
-4,5,Z4-05,O Bruño,restaurant,Rúa Celso Emilio Ferreiro 10,42.2635663,-8.7770758,https://www.openstreetmap.org/node/13001773672,,
-4,6,Z4-06,El Bribón de la Habana,restaurant,Paseo José Santos Rodríguez 13,42.2635343,-8.7777188,https://www.openstreetmap.org/node/13001773679,,
-4,7,Z4-07,A meiga,fast_food,near Rúa Félix Ozámiz,42.2638953,-8.7782767,https://www.openstreetmap.org/node/2479992446,,
-4,8,Z4-08,mesón o Pilar,restaurant,near Rúa Félix Ozámiz,42.2639230,-8.7784612,https://www.openstreetmap.org/node/2493642894,,
-4,9,Z4-09,la fiorentina,bakery,near Rúa Félix Ozámiz,42.2639191,-8.7786556,https://www.openstreetmap.org/node/2464170140,,
-4,10,Z4-10,arco da lúa,cafe,near Rúa Félix Ozámiz,42.2640522,-8.7785961,https://www.openstreetmap.org/node/2493642893,,
-4,11,Z4-11,El Escorado,restaurant,near Rúa Félix Ozámiz,42.2640582,-8.7783069,https://www.openstreetmap.org/node/2479992469,,
-4,12,Z4-12,La Suprema,restaurant,Paseo José Santos Rodríguez 6,42.2637345,-8.7784318,https://www.openstreetmap.org/node/13001847504,,
-4,13,Z4-13,Ardora Rest Club,restaurant,near Rúa San Xoán de Cangas,42.2637343,-8.7788342,https://www.openstreetmap.org/node/12163124980,,
-4,14,Z4-14,El hormiguero,cafe,near Rúa San Xoán de Cangas,42.2637289,-8.7788900,https://www.openstreetmap.org/node/2456836659,,
-4,15,Z4-15,Café-heladeria la Fiorentina,cafe,Praza das Pontes,42.2639099,-8.7794439,https://www.openstreetmap.org/node/4712445889,,
-4,16,Z4-16,La Salada Burger,fast_food,Paseo José Santos Rodríguez 5,42.2639011,-8.7795468,https://www.openstreetmap.org/node/2456836625,,
-4,17,Z4-17,(unnamed on map),florist,near Avenida de Ourense,42.2642431,-8.7795250,https://www.openstreetmap.org/node/2383762719,,
-4,18,Z4-18,por definir,shoes,near Avenida de Ourense,42.2642429,-8.7794667,https://www.openstreetmap.org/node/2972634912,,
-4,19,Z4-19,AlterNativa,baby_goods,near Avenida de Ourense,42.2642464,-8.7793842,https://www.openstreetmap.org/node/2972634911,,
-4,20,Z4-20,(unnamed on map),pharmacy,near Avenida de Ourense,42.2642688,-8.7792984,https://www.openstreetmap.org/node/2383762721,,
-4,21,Z4-21,(unnamed on map),hardware,near Avenida de Ourense,42.2643242,-8.7789757,https://www.openstreetmap.org/node/2383762730,,
-4,22,Z4-22,(unnamed on map),pharmacy,near Avenida de Ourense,42.2643446,-8.7788271,https://www.openstreetmap.org/node/2383762732,,
-4,23,Z4-23,Noêtta Clothing Store,clothes,Rúa Noria 2,42.2646742,-8.7788168,https://www.openstreetmap.org/node/6266111845,,
-4,24,Z4-24,(unnamed on map),kiosk,Avenida de Marín,42.2647542,-8.7794667,https://www.openstreetmap.org/node/6299375377,,
-4,25,Z4-25,Faro das Cores,arts_centre,Rua Noria 4,42.2653517,-8.7784150,https://www.openstreetmap.org/node/13611448815,,
-4,26,Z4-26,Obelix,restaurant,near Rúa Redondela,42.2658845,-8.7784871,https://www.openstreetmap.org/node/9464221884,,
-4,27,Z4-27,Habelas Hailas,restaurant,Rúa Atranco 17,42.2653660,-8.7774884,https://www.openstreetmap.org/node/14069959396,,
-4,28,Z4-28,Máster Zap Cangas,shoemaker,Travesía Rúa Atranco 19,42.2651115,-8.7777428,https://www.openstreetmap.org/node/6329548071,,
-4,29,Z4-29,(unnamed on map),swimming_pool,near Rúa Aldea de Arriba,42.2645749,-8.7752558,https://www.openstreetmap.org/way/1026494777,,
-4,30,Z4-30,Maui Rodeira,pub,near 4ª Travesía Ourense,42.2630536,-8.7732268,https://www.openstreetmap.org/node/2464170146,,
-4,31,Z4-31,(unnamed on map),pub,near 5ª Travesía Ourense,42.2625706,-8.7717416,https://www.openstreetmap.org/node/13001773670,,
-4,32,Z4-32,La Jaima de Rodeira,pub,near 6ª Travesía Ourense,42.2623728,-8.7710679,https://www.openstreetmap.org/node/12996093860,,
-4,33,Z4-33,Pistas Deportivas do Kenyata,sports_centre,near 6ª Travesía Ourense,42.2626185,-8.7703204,https://www.openstreetmap.org/way/245131140,,
-4,34,Z4-34,Café Panacota,cafe,Avenida de Ourense 80,42.2629471,-8.7700306,https://www.openstreetmap.org/node/12191792940,,
-4,35,Z4-35,Inmobiliaria Paredes,estate_agent,Avenida de Ourense 86,42.2629686,-8.7696364,https://www.openstreetmap.org/node/12191828586,,
-4,36,Z4-36,Hotel & Apartamentos Rodeiramar 2A,hotel,Avenida de Ourense 76,42.2623901,-8.7695968,https://www.openstreetmap.org/way/675452178,,
-4,37,Z4-37,Hotel Playa,hotel,8ª Travesía Ourense,42.2618733,-8.7696339,https://www.openstreetmap.org/way/1030525309,,
-4,38,Z4-38,Chiringo Tiramillas,cafe,near Camiño da Garita,42.2613630,-8.7677924,https://www.openstreetmap.org/node/2394224827,,
-4,39,Z4-39,Tienda de Long,variety_store,near Avenida Xosé María Castroviejo,42.2628822,-8.7669395,https://www.openstreetmap.org/node/11196321162,,
-4,40,Z4-40,Taberna Guimerans,restaurant,near Avenida do Espírito Santo,42.2644256,-8.7701169,https://www.openstreetmap.org/way/1026500739,,
-4,41,Z4-41,Areeiro Cangas,restaurant,near Avenida de Ourense,42.2633090,-8.7706987,https://www.openstreetmap.org/node/9464209189,,
-4,42,Z4-42,Claudio,supermarket,near Avenida de Ourense,42.2634236,-8.7714779,https://www.openstreetmap.org/node/9464209175,,
-4,43,Z4-43,Margarita Rodríguez Lantarón,pharmacy,Espiritu Santo,42.2666970,-8.7691590,https://www.openstreetmap.org/node/4101924129,,
-4,44,Z4-44,La Fábrica,bar,near Camiño da Garita,42.2599505,-8.7660906,https://www.openstreetmap.org/node/4637733181,,
-4,45,Z4-45,La Garita,guest_house,near Camiño da Garita,42.2590976,-8.7654498,https://www.openstreetmap.org/node/4637733182,,
-5,1,Z5-01,Joyería Relojería Paz,jewelry,near Praza do Arco,42.2629263,-8.7854985,https://www.openstreetmap.org/node/1918280677,,
-5,2,Z5-02,(unnamed on map),hairdresser,near Rúa do Arco,42.2629889,-8.7856542,https://www.openstreetmap.org/node/1918280713,,
-5,3,Z5-03,Taberna O Arco,restaurant,near Praza do Arco,42.2629321,-8.7857055,https://www.openstreetmap.org/node/1918280679,,
-5,4,Z5-04,Café-Bar Alameda,bar,near Praza do Arco,42.2627837,-8.7856642,https://www.openstreetmap.org/node/1592817077,,
-5,5,Z5-05,Pillados,clothes,near Praza do Arco,42.2627742,-8.7855937,https://www.openstreetmap.org/node/2467881838,,
-5,6,Z5-06,(unnamed on map),hairdresser,near Praza Progreso,42.2625623,-8.7855201,https://www.openstreetmap.org/node/4102048501,,
-5,7,Z5-07,(unnamed on map),clothes,near Rúa Alfredo Saralegui,42.2625321,-8.7855393,https://www.openstreetmap.org/node/4102048500,,
-5,8,Z5-08,(unnamed on map),clothes;gift,near Avenida Eduardo Vicenti,42.2625495,-8.7854355,https://www.openstreetmap.org/node/1923768644,,
-5,9,Z5-09,(unnamed on map),newsagent,near Avenida Eduardo Vicenti,42.2624534,-8.7854684,https://www.openstreetmap.org/node/4102048502,,
-5,10,Z5-10,(unnamed on map),lottery,near Avenida Eduardo Vicenti,42.2623128,-8.7854380,https://www.openstreetmap.org/node/4102081776,,
-5,11,Z5-11,Bar-café Alondras,cafe,Avenida Eduardo Vicenti,42.2622090,-8.7854188,https://www.openstreetmap.org/node/4712445691,,
-5,12,Z5-12,Taperia Aruba,restaurant,near Rúa Alfredo Saralegui,42.2619857,-8.7856124,https://www.openstreetmap.org/node/2497942397,,
-5,13,Z5-13,(unnamed on map),hairdresser,near Rúa Alfredo Saralegui,42.2618956,-8.7856042,https://www.openstreetmap.org/node/2497942396,,
-5,14,Z5-14,Paxarim,cafe,Avenida Montero Ríos,42.2618807,-8.7854356,https://www.openstreetmap.org/node/4637733180,,
-5,15,Z5-15,Carnicería Oporto,butcher,Avenida Montero Ríos,42.2617542,-8.7854422,https://www.openstreetmap.org/node/4637733178,,
-5,16,Z5-16,METRA Topografía,company,Rúa Bos Aires 16,42.2620391,-8.7857304,https://www.openstreetmap.org/node/8372700118,,
-5,17,Z5-17,(unnamed on map),cafe,near Paseo Marítimo,42.2617353,-8.7847366,https://www.openstreetmap.org/node/1923768635,,
-5,18,Z5-18,(unnamed on map),cafe,near Paseo Marítimo,42.2614715,-8.7836740,https://www.openstreetmap.org/node/2383762688,,
-5,19,Z5-19,Os Gofres,kiosk,Rúa Xosé Félix Soage,42.2626174,-8.7848972,https://www.openstreetmap.org/way/1041451728,,
-5,20,Z5-20,(unnamed on map),kiosk,near Avenida do 25 de Xullo,42.2626248,-8.7849021,https://www.openstreetmap.org/node/1592817080,,
-5,21,Z5-21,Churrería Montes,fast_food,near Paseo Castelao,42.2630304,-8.7844498,https://www.openstreetmap.org/node/4712501590,,
-5,22,Z5-22,Praza de Abastos,marketplace,near Avenida Eduardo Vicenti,42.2632096,-8.7843111,https://www.openstreetmap.org/way/489431928,,
-5,23,Z5-23,(unnamed on map),pharmacy,near Praza da Constitución,42.2635109,-8.7846643,https://www.openstreetmap.org/node/1592817087,,
-5,24,Z5-24,(unnamed on map),optician,near Praza da Constitución,42.2634660,-8.7847243,https://www.openstreetmap.org/node/4102048504,,
-5,25,Z5-25,Inmobiliaria Cangas,estate_agent,Rúa Real,42.2634407,-8.7847856,https://www.openstreetmap.org/node/1923768632,,
-5,26,Z5-26,"Luis Hernández Álvarez, S.L.",hardware,Rúa Real 1,42.2635534,-8.7849554,https://www.openstreetmap.org/node/1923768729,,
-5,27,Z5-27,Pepa Viñas,hairdresser,near Praza da Constitución,42.2635010,-8.7850208,https://www.openstreetmap.org/node/1923768728,,
-5,28,Z5-28,La Vaguada,confectionery,near Rúa Xosé Félix Soage,42.2634945,-8.7850916,https://www.openstreetmap.org/node/1935310862,,
-5,29,Z5-29,(unnamed on map),fast_food,near Praza da Constitución,42.2633818,-8.7850470,https://www.openstreetmap.org/node/1918280678,,
-5,30,Z5-30,Centro Óptico Cangas,optician,near Praza da Constitución,42.2633575,-8.7850719,https://www.openstreetmap.org/node/1918280676,,
-5,31,Z5-31,(unnamed on map),pharmacy,near Praza da Constitución,42.2633257,-8.7851142,https://www.openstreetmap.org/node/1918280721,,
-5,32,Z5-32,Tapería Martinnus,restaurant,near Rúa Pablo Iglesias,42.2631240,-8.7853308,https://www.openstreetmap.org/node/1592817091,,
-5,33,Z5-33,Los toneles,restaurant,near Rúa Antonio Garrelly,42.2630569,-8.7855735,https://www.openstreetmap.org/node/9464221879,,
-5,34,Z5-34,(unnamed on map),funeral_directors,near Rúa Antonio Garrelly,42.2631835,-8.7856383,https://www.openstreetmap.org/node/1592781178,,
-5,35,Z5-35,Tía Brígida,restaurant,near Rúa do Arco,42.2630641,-8.7858231,https://www.openstreetmap.org/node/4102048499,,
-5,36,Z5-36,Librería Wells,books,Praza do Arco 5,42.2629105,-8.7859279,https://www.openstreetmap.org/node/4097629668,,
-5,37,Z5-37,Conservas Lago Paganini,yes,near Rúa Xosé Félix Soage,42.2635541,-8.7852906,https://www.openstreetmap.org/node/9464251278,,
-5,38,Z5-38,Rogelio Iglesias,bakery,Rúa Real,42.2637217,-8.7850520,https://www.openstreetmap.org/node/3166168442,,
-5,39,Z5-39,Rogelio Iglesias,cafe,Rúa Real,42.2637629,-8.7850789,https://www.openstreetmap.org/node/2113071288,,
-5,40,Z5-40,Tinto Sentido,wine,Rúa Real 8,42.2636126,-8.7848684,https://www.openstreetmap.org/node/11158842168,,
-5,41,Z5-41,Tanatorio de Cangas,funeral_directors,Avenida de Vigo,42.2637103,-8.7867769,https://www.openstreetmap.org/node/1592781577,,
-5,42,Z5-42,(unnamed on map),furniture,near Avenida de Vigo,42.2638255,-8.7873321,https://www.openstreetmap.org/node/1592781251,,
-5,43,Z5-43,Milar,hifi,Avenida de Vigo 27,42.2638771,-8.7873132,https://www.openstreetmap.org/node/1592780897,,
-5,44,Z5-44,(unnamed on map),gift,near Avenida de Vigo,42.2639505,-8.7873105,https://www.openstreetmap.org/node/1592780906,,
-5,45,Z5-45,Famila,supermarket,Avenida de Vigo,42.2633834,-8.7874192,https://www.openstreetmap.org/node/4883065782,,
-6,1,Z6-01,Clínica Dental Vitaldent,dentist,Avenida de Vigo 158,42.2580154,-8.7880251,https://www.openstreetmap.org/node/4712529190,,
-6,2,Z6-02,(unnamed on map),variety_store,Avenida de Bueu,42.2578229,-8.7878529,https://www.openstreetmap.org/node/4712513893,,
-6,3,Z6-03,Talleres Araúxo,car_repair,Avenida de Vigo,42.2580429,-8.7875001,https://www.openstreetmap.org/node/4712445690,,
-6,4,Z6-04,Dia,supermarket,near Avenida de Bueu,42.2582394,-8.7871263,https://www.openstreetmap.org/node/4357182816,,
-6,5,Z6-05,Cafeteria videoclub Fotograma,cafe,Rúa Alexandre Cribeiro,42.2585188,-8.7866975,https://www.openstreetmap.org/node/4712513889,,
-6,6,Z6-06,María Antonia Cordeiro Lopez,pharmacy,Bueu,42.2584357,-8.7863479,https://www.openstreetmap.org/node/4101924155,,
-6,7,Z6-07,Deportes Oliver,sports,Avenida de Bueu,42.2582734,-8.7864708,https://www.openstreetmap.org/node/4712563089,,
-6,8,Z6-08,Froiz,supermarket,near Avenida de Bueu,42.2589165,-8.7863893,https://www.openstreetmap.org/node/3572529482,,
-6,9,Z6-09,Cafetería Enziani,cafe,Rua de Fomento,42.2592380,-8.7861793,https://www.openstreetmap.org/node/4712559389,,
-6,10,Z6-10,Shell,fuel,Avenida de Bueu 1,42.2590945,-8.7859629,https://www.openstreetmap.org/way/423826058,,
-6,11,Z6-11,Lonxa de Cangas,seafood,near Avenida Montero Ríos,42.2598258,-8.7853115,https://www.openstreetmap.org/way/243575766,,
-6,12,Z6-12,(unnamed on map),laundry,near Rúa de Fomento,42.2602672,-8.7857016,https://www.openstreetmap.org/node/4102081778,,
-6,13,Z6-13,Efectos navais,outdoor,Rua de Fomento,42.2603486,-8.7859581,https://www.openstreetmap.org/node/4712549089,,
-6,14,Z6-14,Restaurante Bitácora,restaurant,Rua de Fomento,42.2605014,-8.7859383,https://www.openstreetmap.org/node/4712513892,,
-6,15,Z6-15,Tapería A Lonxa,pub,Avenida Montero Ríos,42.2607678,-8.7856409,https://www.openstreetmap.org/node/4712425489,,
-6,16,Z6-16,Cíes,cafe,near Rúa de Fomento,42.2608468,-8.7856149,https://www.openstreetmap.org/node/4357181696,,
-6,17,Z6-17,Óptica Prisma,optician,near Avenida Montero Ríos,42.2610224,-8.7855708,https://www.openstreetmap.org/node/2497942366,,
-6,18,Z6-18,Alain Afflelou,optician,near Rúa de Fomento,42.2614144,-8.7855873,https://www.openstreetmap.org/node/2497942393,,
-6,19,Z6-19,(unnamed on map),kiosk,near Rúa Alfredo Saralegui,42.2615805,-8.7854636,https://www.openstreetmap.org/node/2383762695,,
-6,20,Z6-20,Frutas Sol,greengrocer,near Rúa Alfredo Saralegui,42.2617116,-8.7854467,https://www.openstreetmap.org/node/2497942395,,
-6,21,Z6-21,Casa Macillos,restaurant,Rúa Alfredo Saralegui 24,42.2617179,-8.7856064,https://www.openstreetmap.org/node/2383762671,,
-6,22,Z6-22,Tapería Dos Chatas,restaurant,Rúa Alfredo Saralegui 28,42.2616341,-8.7857004,https://www.openstreetmap.org/node/1905921632,,
-6,23,Z6-23,Supermercado Familia,supermarket,near Avenida de Vigo,42.2615880,-8.7873685,https://www.openstreetmap.org/node/2250945652,,
-6,24,Z6-24,(unnamed on map),fuel,Avenida de Vigo,42.2618539,-8.7878115,https://www.openstreetmap.org/way/496620642,,
-6,25,Z6-25,(unnamed on map),pet,near Avenida de Vigo,42.2587261,-8.7875631,https://www.openstreetmap.org/node/4102081762,,
-6,26,Z6-26,Pneumáticos Pedra Alta,car_repair,Avenida de Bueu,42.2575475,-8.7874593,https://www.openstreetmap.org/node/4712559689,,
-6,27,Z6-27,Tapería Punta Balea,cafe,Avenida de Bueu 33,42.2568613,-8.7884898,https://www.openstreetmap.org/node/4712445689,,
-6,28,Z6-28,Panadería-Pasteleria A Golosa,bakery,Avenida de Bueu,42.2562658,-8.7895743,https://www.openstreetmap.org/node/4712513989,,
-6,29,Z6-29,Julio García Gayo,pharmacy,Bueu 40,42.2559540,-8.7907200,https://www.openstreetmap.org/node/4101923367,,
-6,30,Z6-30,Las Vegas,hotel,near Avenida de Pontevedra,42.2556551,-8.7915477,https://www.openstreetmap.org/way/417848084,,
-6,31,Z6-31,Hotel Las Vegas,hotel,Avenida de Pontevedra 4,42.2555098,-8.7914816,https://www.openstreetmap.org/way/873126498,,
-6,32,Z6-32,(unnamed on map),swimming_pool,near Avenida de Pontevedra,42.2554370,-8.7914223,https://www.openstreetmap.org/way/417848082,,
-6,33,Z6-33,Lidl,supermarket,near Avenida de Bueu,42.2549461,-8.7912057,https://www.openstreetmap.org/way/1036332481,,
-6,34,Z6-34,Casa Simón,restaurant,near Rúa de Balea Centro,42.2539112,-8.7923164,https://www.openstreetmap.org/node/1595150748,,
-6,35,Z6-35,Restaurante/Asador Gatañal,restaurant,Rúa Gatañal 28,42.2556023,-8.7940613,https://www.openstreetmap.org/way/812865346,,
-6,36,Z6-36,(unnamed on map),swimming_pool,near Rúa As Pontes,42.2558802,-8.7969584,https://www.openstreetmap.org/way/781123894,,
-6,37,Z6-37,(unnamed on map),sports_centre,near Rúa As Pontes,42.2550566,-8.7972614,https://www.openstreetmap.org/way/311844951,,
-6,38,Z6-38,Menduíña,brewery,Rúa Estrada Darbo 16,42.2560844,-8.7988011,https://www.openstreetmap.org/node/8086327420,,
-6,39,Z6-39,AutoRos,car_repair,near Rúa Tobal,42.2570517,-8.7976908,https://www.openstreetmap.org/way/844237059,,
-6,40,Z6-40,(unnamed on map),swimming_pool,near Rúa Granxa do Tobal,42.2579830,-8.7964843,https://www.openstreetmap.org/way/873126496,,
-6,41,Z6-41,Hotel H4 Cangas,hotel,Rúa Granxa do Tobal 34,42.2579212,-8.7963861,https://www.openstreetmap.org/way/873126493,,
-6,42,Z6-42,(unnamed on map),swimming_pool,near Rúa Granxa do Tobal,42.2579630,-8.7963030,https://www.openstreetmap.org/way/873126495,,
-6,43,Z6-43,A Taberna da Laxe,bar,near Rúa Estrada Darbo,42.2621344,-8.8039737,https://www.openstreetmap.org/node/5981180941,,
-6,44,Z6-44,A tenda de Mucha,convenience,near Rúa Estrada Darbo,42.2620577,-8.8043780,https://www.openstreetmap.org/node/5607722714,,
-6,45,Z6-45,A tenda de Mucha,convenience,RúaEstrada Darbo 113,42.2620577,-8.8043780,https://www.openstreetmap.org/node/5607725594,,
-6,46,Z6-46,A tenda de. Icha,convenience,near Rúa Estrada Darbo,42.2620814,-8.8044990,https://www.openstreetmap.org/node/5981178798,,
+﻿Zona,Orde de visita,Código da parada,Nome do local,Categoría OSM,Enderezo OSM,Latitude,Lonxitude,Ligazón de OpenStreetMap,Visitado,Notas,Categoría en galego,Enderezo en galego
+1,1,Z1-01,Cafecito a Otro Nivel,cafe,Rúa de Antonio Soage Jalda 15,42.2661395,-8.7804686,https://www.openstreetmap.org/node/6092327129,,,cafetería,Rúa de Antonio Soage Jalda 15
+1,2,Z1-02,Centro de Saúde Cangas,clinic,Rúa de Antonio Soage Jalda,42.2658115,-8.7803031,https://www.openstreetmap.org/way/229832883,,,clínica,Rúa de Antonio Soage Jalda
+1,3,Z1-03,+ Madera,bar,preto de Rúa Ferrol,42.2657839,-8.7797742,https://www.openstreetmap.org/node/4102081764,,,bar,preto de Rúa Ferrol
+1,4,Z1-04,Roa,cafe,preto de Rúa Ferrol,42.2659682,-8.7796980,https://www.openstreetmap.org/node/4102081763,,,cafetería,preto de Rúa Ferrol
+1,5,Z1-05,Hollywood,hotel,preto de Rúa Gondomar,42.2655579,-8.7795722,https://www.openstreetmap.org/way/397522969,,,hotel,preto de Rúa Gondomar
+1,6,Z1-06,(local sen nome no mapa),convenience,preto de Rúa Gondomar,42.2653379,-8.7795857,https://www.openstreetmap.org/node/4102081765,,,tenda de proximidade,preto de Rúa Gondomar
+1,7,Z1-07,Rogelio Iglesias,bakery,preto de Avenida de Marín,42.2653055,-8.7793140,https://www.openstreetmap.org/node/2490261815,,,panadaría,preto de Avenida de Marín
+1,8,Z1-08,Café Bar Lombok,cafe,Rúa Baiona 13,42.2649237,-8.7793707,https://www.openstreetmap.org/node/6260099451,,,cafetería,Rúa Baiona 13
+1,9,Z1-09,Rewachi,pet,Avenida de Marín 11,42.2649303,-8.7796727,https://www.openstreetmap.org/node/2490261818,,,tenda de animais,Avenida de Marín 11
+1,10,Z1-10,Maraxe,books,preto de Avenida de Marín,42.2647645,-8.7797098,https://www.openstreetmap.org/node/1905921633,,,libraría,preto de Avenida de Marín
+1,11,Z1-11,Döner Kebab,fast_food,preto de Avenida de Marín,42.2647100,-8.7797210,https://www.openstreetmap.org/node/11645930437,,,comida rápida,preto de Avenida de Marín
+1,12,Z1-12,Oasis,cafe,preto de Avenida de Marín,42.2646496,-8.7797277,https://www.openstreetmap.org/node/3991859387,,,cafetería,preto de Avenida de Marín
+1,13,Z1-13,Jucamar,hotel,Avenida de Marín 5,42.2646180,-8.7798926,https://www.openstreetmap.org/way/396274060,,,hotel,Avenida de Marín 5
+1,14,Z1-14,Oficina de Correos,post_office,preto de Rúa Baiona,42.2647749,-8.7801626,https://www.openstreetmap.org/node/2464170136,,,oficina de correos,preto de Rúa Baiona
+1,15,Z1-15,Shambala,supermarket,preto de Rúa Baiona,42.2649600,-8.7802315,https://www.openstreetmap.org/node/4102081766,,,supermercado,preto de Rúa Baiona
+1,16,Z1-16,O Forno de Juan (Panadería-Cafetería),pastry,Rúa Ferrol 3,42.2650865,-8.7801960,https://www.openstreetmap.org/node/6915856067,,,pastelaría,Rúa Ferrol 3
+1,17,Z1-17,Pizza Móvil,fast_food,preto de Rúa Baiona,42.2649497,-8.7807111,https://www.openstreetmap.org/node/2490261814,,,comida rápida,preto de Rúa Baiona
+1,18,Z1-18,(local sen nome no mapa),laundry,preto de Rúa Baiona,42.2649433,-8.7810654,https://www.openstreetmap.org/node/4102081777,,,lavandaría,preto de Rúa Baiona
+1,19,Z1-19,ALUGA Inmobiliaria,estate_agent,Rúa Baiona 22,42.2649448,-8.7811585,https://www.openstreetmap.org/node/4366495861,,,inmobiliaria,Rúa Baiona 22
+1,20,Z1-20,MyFit Sport,fitness_centre,Rúa Baiona 30,42.2650387,-8.7820556,https://www.openstreetmap.org/node/6331229807,,,ximnasio,Rúa Baiona 30
+1,21,Z1-21,O Artesano,shoemaker,preto de Rúa de San Xosé,42.2656970,-8.7837771,https://www.openstreetmap.org/node/1904209325,,,zapateiro/a,preto de Rúa de San Xosé
+1,22,Z1-22,Tere Riobó,hairdresser,preto de Rúa de San Xosé,42.2656167,-8.7839588,https://www.openstreetmap.org/node/2472336275,,,perruquería,preto de Rúa de San Xosé
+1,23,Z1-23,(local sen nome no mapa),pharmacy,preto de Rúa de San Xosé,42.2659186,-8.7838643,https://www.openstreetmap.org/node/1904209327,,,farmacia,preto de Rúa de San Xosé
+1,24,Z1-24,La Frutería de Milucho,greengrocer,preto de Avenida de Galicia,42.2659053,-8.7841470,https://www.openstreetmap.org/node/1904209323,,,froitería,preto de Avenida de Galicia
+1,25,Z1-25,Freesia,florist,Rúa de San Xosé,42.2662732,-8.7832529,https://www.openstreetmap.org/node/2464170103,,,floraría,Rúa de San Xosé
+1,26,Z1-26,Abadia Formacion,computer,Rúa de San Xosé 43,42.2664384,-8.7833451,https://www.openstreetmap.org/node/4102553489,,,informática,Rúa de San Xosé 43
+1,27,Z1-27,Taller Lucho,motorcycle,Rúa de San Xosé 45,42.2665354,-8.7832536,https://www.openstreetmap.org/node/4102464799,,,motocicletas,Rúa de San Xosé 45
+1,28,Z1-28,Malopa,florist,Rúa de San Xosé 47,42.2666861,-8.7831268,https://www.openstreetmap.org/node/2464170099,,,floraría,Rúa de San Xosé 47
+1,29,Z1-29,Espazo de traballo Trebella,company,Rúa Andalucía 10,42.2670902,-8.7835916,https://www.openstreetmap.org/node/6593302222,,,empresa,Rúa Andalucía 10
+1,30,Z1-30,O Tostadeiro,cafe,Avenida de Lugo 3,42.2673758,-8.7832408,https://www.openstreetmap.org/node/1904209336,,,cafetería,Avenida de Lugo 3
+1,31,Z1-31,Auditorio Municipal Xosé Manuel Pazos de Cangas,theatre,Avenida de Lugo,42.2676753,-8.7832295,https://www.openstreetmap.org/way/179974313,,,teatro,Avenida de Lugo
+1,32,Z1-32,Cineclube Cangas,cinema,Avenida de Lugo 27,42.2677513,-8.7830196,https://www.openstreetmap.org/node/6027994265,,,cine,Avenida de Lugo 27
+1,33,Z1-33,Cafetería Cangas,cafe,Avenida de Lugo,42.2677279,-8.7839126,https://www.openstreetmap.org/node/1904209342,,,cafetería,Avenida de Lugo
+1,34,Z1-34,Mistura,hairdresser,preto de Praza de Andalucía,42.2668800,-8.7843331,https://www.openstreetmap.org/node/3398003493,,,perruquería,preto de Praza de Andalucía
+1,35,Z1-35,Taller mecánico Nosauto Cangas,car_repair,Avenida de Galicia 3,42.2669295,-8.7853045,https://www.openstreetmap.org/node/6591604406,,,taller de automoción,Avenida de Galicia 3
+1,36,Z1-36,Senin Vigo,pharmacy,preto de Avenida da Coruña,42.2676769,-8.7856976,https://www.openstreetmap.org/node/3486694116,,,farmacia,preto de Avenida da Coruña
+1,37,Z1-37,Furancho de Ximeu,restaurant,preto de Rúa Alcalde Agustín Etcheverri,42.2697885,-8.7839063,https://www.openstreetmap.org/node/13695085298,,,restaurante,preto de Rúa Alcalde Agustín Etcheverri
+1,38,Z1-38,Piscina Municipal de Cangas A Balea,sports_centre,18,42.2729530,-8.7825056,https://www.openstreetmap.org/way/309418378,,,centro deportivo,18
+1,39,Z1-39,La Fe,carpenter,preto de Camiño do Sistro,42.2727632,-8.7789136,https://www.openstreetmap.org/way/844850962,,,carpintaría,preto de Camiño do Sistro
+1,40,Z1-40,Repsol Butano,fuel,preto de Camiño de Reboredo,42.2717157,-8.7768406,https://www.openstreetmap.org/node/2945941013,,,gasolineira,preto de Camiño de Reboredo
+1,41,Z1-41,Asociación Cultural Peis d'Hos,association,preto de Avenida de Lugo,42.2708499,-8.7792946,https://www.openstreetmap.org/node/11521607034,,,asociación,preto de Avenida de Lugo
+1,42,Z1-42,Froiz,supermarket,preto de Rúa Reboredo,42.2666863,-8.7788372,https://www.openstreetmap.org/node/2383762677,,,supermercado,preto de Rúa Reboredo
+1,43,Z1-43,The Trooper,nightclub,Avenida de Marín 29,42.2663875,-8.7793338,https://www.openstreetmap.org/node/13377913630,,,sala de festas,Avenida de Marín 29
+1,44,Z1-44,A toda Brasa,restaurant,preto de Rúa Redondela,42.2660611,-8.7790504,https://www.openstreetmap.org/node/9464251273,,,restaurante,preto de Rúa Redondela
+1,45,Z1-45,Bicicletas Galibike,yes,Rúa Redondela 9,42.2660279,-8.7787554,https://www.openstreetmap.org/node/9464221885,,,comercio,Rúa Redondela 9
+2,1,Z2-01,Estudio 26,hairdresser,preto de Rúa Valentín Losada,42.2642691,-8.7842211,https://www.openstreetmap.org/node/11158842399,,,perruquería,preto de Rúa Valentín Losada
+2,2,Z2-02,Moda Kyss,clothes,Rúa Valentín Losada,42.2644410,-8.7842210,https://www.openstreetmap.org/node/2113071316,,,roupa,Rúa Valentín Losada
+2,3,Z2-03,Martinez Menduiña,dentist,preto de Rúa Colón,42.2645165,-8.7841645,https://www.openstreetmap.org/node/11158739341,,,dentista,preto de Rúa Colón
+2,4,Z2-04,Mercería Agusmari,dressmaker,Rúa Colón,42.2644833,-8.7841127,https://www.openstreetmap.org/node/2122366178,,,modista,Rúa Colón
+2,5,Z2-05,Celeste Graña,hairdresser,preto de Rúa Estrela,42.2645485,-8.7843313,https://www.openstreetmap.org/node/11158872107,,,perruquería,preto de Rúa Estrela
+2,6,Z2-06,(local sen nome no mapa),hairdresser,Rúa Estrella,42.2646904,-8.7842638,https://www.openstreetmap.org/node/4102657085,,,perruquería,Rúa Estrella
+2,7,Z2-07,Antoxo,bakery,Rúa Estrella,42.2647415,-8.7841761,https://www.openstreetmap.org/node/2113071315,,,panadaría,Rúa Estrella
+2,8,Z2-08,Mesón Alboio,restaurant,Rúa de San Xosé 25,42.2647279,-8.7840154,https://www.openstreetmap.org/node/2357503248,,,restaurante,Rúa de San Xosé 25
+2,9,Z2-09,Avilés,hairdresser,Rúa de San Xosé,42.2648392,-8.7838849,https://www.openstreetmap.org/node/2122366150,,,perruquería,Rúa de San Xosé
+2,10,Z2-10,Sole,butcher,Rúa de San Xosé,42.2649215,-8.7839212,https://www.openstreetmap.org/node/2122366169,,,carnizaría,Rúa de San Xosé
+2,11,Z2-11,(local sen nome no mapa),clothes,Rúa de San Xosé,42.2650947,-8.7838825,https://www.openstreetmap.org/node/4102048493,,,roupa,Rúa de San Xosé
+2,12,Z2-12,(local sen nome no mapa),stationery,preto de Rúa de San Xosé,42.2652455,-8.7840172,https://www.openstreetmap.org/node/2480224275,,,papelaría,preto de Rúa de San Xosé
+2,13,Z2-13,Aguamar,jewelry,preto de Rúa de San Xosé,42.2653258,-8.7838038,https://www.openstreetmap.org/node/2472480659,,,xoiería,preto de Rúa de San Xosé
+2,14,Z2-14,O galo da Loli,restaurant,preto de Rúa da Fonte do Galo,42.2644933,-8.7833400,https://www.openstreetmap.org/node/3166175844,,,restaurante,preto de Rúa da Fonte do Galo
+2,15,Z2-15,Pistón Motos,motorcycle,Rua do Lirio,42.2643780,-8.7836605,https://www.openstreetmap.org/node/2472336269,,,motocicletas,Rua do Lirio
+2,16,Z2-16,Pistón Motos,bicycle,Rua do Lirio,42.2643462,-8.7836394,https://www.openstreetmap.org/node/2472336264,,,bicicletas,Rua do Lirio
+2,17,Z2-17,A Esmorga,books,Rúa de San Xosé,42.2643199,-8.7837854,https://www.openstreetmap.org/node/2122605207,,,libraría,Rúa de San Xosé
+2,18,Z2-18,Glamour lenceria,clothes,Rúa de San Xosé,42.2642975,-8.7838980,https://www.openstreetmap.org/node/4102081773,,,roupa,Rúa de San Xosé
+2,19,Z2-19,Azul cebra,yes,Rúa de San Xosé,42.2643737,-8.7839076,https://www.openstreetmap.org/node/4102081774,,,comercio,Rúa de San Xosé
+2,20,Z2-20,BYS,hairdresser,Rúa de San Xosé,42.2644133,-8.7838133,https://www.openstreetmap.org/node/2472336271,,,perruquería,Rúa de San Xosé
+2,21,Z2-21,Irisar,Imprenta,Rúa de San Xosé 11,42.2642086,-8.7838772,https://www.openstreetmap.org/node/4102081772,,,imprenta,Rúa de San Xosé 11
+2,22,Z2-22,O alirio,brewery,Rua do Lirio,42.2642139,-8.7836545,https://www.openstreetmap.org/node/2122605187,,,cervexaría,Rua do Lirio
+2,23,Z2-23,The Vape Room,e-cigarette,preto de Rúa do Sol,42.2641779,-8.7834956,https://www.openstreetmap.org/node/11158758377,,,cigarros electrónicos,preto de Rúa do Sol
+2,24,Z2-24,Cousiñas de kela,clothes,Rúa do Sol,42.2641422,-8.7833174,https://www.openstreetmap.org/node/2472336250,,,roupa,Rúa do Sol
+2,25,Z2-25,Panadería - pastelería Buenas Migas Store,bakery,Rúa de San Xosé 10,42.2640440,-8.7837455,https://www.openstreetmap.org/node/8987942517,,,panadaría,Rúa de San Xosé 10
+2,26,Z2-26,(local sen nome no mapa),clothes,preto de Rúa de San Xosé,42.2637740,-8.7836598,https://www.openstreetmap.org/node/4102048492,,,roupa,preto de Rúa de San Xosé
+2,27,Z2-27,(local sen nome no mapa),clothes,preto de Rúa de San Xosé,42.2637025,-8.7836382,https://www.openstreetmap.org/node/2467764360,,,roupa,preto de Rúa de San Xosé
+2,28,Z2-28,Optica Studio,optician,preto de Rúa de San Xosé,42.2636445,-8.7836798,https://www.openstreetmap.org/node/11158853943,,,óptica,preto de Rúa de San Xosé
+2,29,Z2-29,Casa Porron,bar,preto de Avenida Eugenio Sequeiros,42.2636654,-8.7835418,https://www.openstreetmap.org/node/11158853942,,,bar,preto de Avenida Eugenio Sequeiros
+2,30,Z2-30,Rabieta,cafe,preto de Avenida Eugenio Sequeiros,42.2636802,-8.7833988,https://www.openstreetmap.org/node/11158829028,,,cafetería,preto de Avenida Eugenio Sequeiros
+2,31,Z2-31,Zapateria Babel,shoes,preto de Avenida Eugenio Sequeiros,42.2637049,-8.7831581,https://www.openstreetmap.org/node/11158762035,,,zapataría,preto de Avenida Eugenio Sequeiros
+2,32,Z2-32,(local sen nome no mapa),newsagent,Avenida Eugenio Sequeiros,42.2636673,-8.7839955,https://www.openstreetmap.org/node/4102048496,,,newsagent,Avenida Eugenio Sequeiros
+2,33,Z2-33,O kiosquillo,kiosk,preto de Avenida Eugenio Sequeiros,42.2636009,-8.7840218,https://www.openstreetmap.org/node/11158849585,,,quiosco,preto de Avenida Eugenio Sequeiros
+2,34,Z2-34,O gran tino,tobacco,Rúa Valentín Losada,42.2637747,-8.7841591,https://www.openstreetmap.org/node/4102081775,,,tobacco,Rúa Valentín Losada
+2,35,Z2-35,(local sen nome no mapa),tobacco,preto de Rúa Valentín Losada,42.2637989,-8.7841626,https://www.openstreetmap.org/node/4102048494,,,tobacco,preto de Rúa Valentín Losada
+2,36,Z2-36,(local sen nome no mapa),bakery,Rúa Valentín Losada,42.2638913,-8.7840870,https://www.openstreetmap.org/node/2464170116,,,panadaría,Rúa Valentín Losada
+2,37,Z2-37,tenta 100,variety_store,Avenida Eugenio Sequeiros 5,42.2635880,-8.7843850,https://www.openstreetmap.org/node/4102048505,,,tenda multiproduto,Avenida Eugenio Sequeiros 5
+2,38,Z2-38,Goluts,kiosk,Avenida Eugenio Sequeiros 4,42.2635773,-8.7844643,https://www.openstreetmap.org/node/4102048503,,,quiosco,Avenida Eugenio Sequeiros 4
+2,39,Z2-39,Mercarroupa,clothes,preto de Avenida Eduardo Vicenti,42.2635424,-8.7845602,https://www.openstreetmap.org/node/11158837618,,,roupa,preto de Avenida Eduardo Vicenti
+2,40,Z2-40,Origen arte floral,florist,Rúa Real,42.2636633,-8.7848622,https://www.openstreetmap.org/node/4102048498,,,floraría,Rúa Real
+2,41,Z2-41,Meson O Batel,cafe,Rúa Real,42.2637049,-8.7848845,https://www.openstreetmap.org/node/2113071312,,,cafetería,Rúa Real
+2,42,Z2-42,Jose,butcher,Rúa Real,42.2637732,-8.7849246,https://www.openstreetmap.org/node/2113071311,,,carnizaría,Rúa Real
+2,43,Z2-43,Viláfer,books,Rúa Real,42.2638785,-8.7851496,https://www.openstreetmap.org/node/2113071301,,,libraría,Rúa Real
+2,44,Z2-44,A Parrocha,restaurant,Rua Benigno Soage,42.2641270,-8.7849158,https://www.openstreetmap.org/node/2113071310,,,restaurante,Rua Benigno Soage
+2,45,Z2-45,Mascotas,pet,Rúa Estrella,42.2646032,-8.7847882,https://www.openstreetmap.org/node/2972634902,,,tenda de animais,Rúa Estrella
+2,46,Z2-46,O Forno de Pablo,bakery,Rúa Real,42.2657174,-8.7856505,https://www.openstreetmap.org/node/6283108097,,,panadaría,Rúa Real
+3,1,Z3-01,(local sen nome no mapa),cafe,preto de Travesía San Francisco,42.2640424,-8.7818095,https://www.openstreetmap.org/node/4102081769,,,cafetería,preto de Travesía San Francisco
+3,2,Z3-02,Óptica Marín,optician,Rúa Méndez Núñez,42.2640440,-8.7817042,https://www.openstreetmap.org/node/4102081768,,,óptica,Rúa Méndez Núñez
+3,3,Z3-03,S@t Gescom,hardware,preto de Rúa Méndez Núñez,42.2639419,-8.7816300,https://www.openstreetmap.org/node/2378183386,,,ferraxaría,preto de Rúa Méndez Núñez
+3,4,Z3-04,Casa roja,estate_agent,preto de Rúa Méndez Núñez,42.2639221,-8.7817153,https://www.openstreetmap.org/node/11158834908,,,inmobiliaria,preto de Rúa Méndez Núñez
+3,5,Z3-05,Hortelan,yes,preto de Rúa Méndez Núñez,42.2639258,-8.7817196,https://www.openstreetmap.org/node/11158776725,,,comercio,preto de Rúa Méndez Núñez
+3,6,Z3-06,Bruno Rdguez,hairdresser,preto de Rúa Méndez Núñez,42.2638784,-8.7818339,https://www.openstreetmap.org/node/4959040743,,,perruquería,preto de Rúa Méndez Núñez
+3,7,Z3-07,Pastoriza Calvar,estate_agent,preto de Rúa Méndez Núñez,42.2638621,-8.7819292,https://www.openstreetmap.org/node/11158783423,,,inmobiliaria,preto de Rúa Méndez Núñez
+3,8,Z3-08,Foto Marcial,photo,preto de Avenida Eugenio Sequeiros,42.2638374,-8.7819947,https://www.openstreetmap.org/node/11158742695,,,fotografía,preto de Avenida Eugenio Sequeiros
+3,9,Z3-09,Bonin 6,hairdresser,preto de Avenida Eugenio Sequeiros,42.2637767,-8.7820125,https://www.openstreetmap.org/node/2459088293,,,perruquería,preto de Avenida Eugenio Sequeiros
+3,10,Z3-10,La Perla Negra,cafe,preto de Avenida Eugenio Sequeiros,42.2638595,-8.7821890,https://www.openstreetmap.org/node/4102048490,,,cafetería,preto de Avenida Eugenio Sequeiros
+3,11,Z3-11,Duende,clothes,Eirado do Sinal,42.2639436,-8.7821295,https://www.openstreetmap.org/node/4102081767,,,roupa,Eirado do Sinal
+3,12,Z3-12,Eroski Viaxes,travel_agency,Eirado do Sinal,42.2640107,-8.7820649,https://www.openstreetmap.org/node/2459088292,,,axencia de viaxes,Eirado do Sinal
+3,13,Z3-13,José,butcher,preto de Rúa do Sol,42.2641465,-8.7819043,https://www.openstreetmap.org/node/2122608399,,,carnizaría,preto de Rúa do Sol
+3,14,Z3-14,(local sen nome no mapa),hairdresser,preto de Rúa do Sol,42.2642262,-8.7818693,https://www.openstreetmap.org/node/4102081771,,,perruquería,preto de Rúa do Sol
+3,15,Z3-15,(local sen nome no mapa),clothes,preto de Rúa do Sol,42.2642172,-8.7817662,https://www.openstreetmap.org/node/4102081770,,,roupa,preto de Rúa do Sol
+3,16,Z3-16,Tapería Sol Poniente,restaurant,Rúa de Antonio Nores 4,42.2641877,-8.7816210,https://www.openstreetmap.org/node/2122608417,,,restaurante,Rúa de Antonio Nores 4
+3,17,Z3-17,Pensión Belén,guest_house,preto de Rúa de Antonio Nores,42.2643100,-8.7813815,https://www.openstreetmap.org/way/396274058,,,pensión,preto de Rúa de Antonio Nores
+3,18,Z3-18,O Ghato de Mar,pub,preto de Rúa de Antonio Nores,42.2645224,-8.7813956,https://www.openstreetmap.org/node/4565079760,,,pub,preto de Rúa de Antonio Nores
+3,19,Z3-19,Hema,jewelry,15,42.2640997,-8.7813348,https://www.openstreetmap.org/node/2378183356,,,xoiería,15
+3,20,Z3-20,Venecia,pastry,17,42.2641075,-8.7812601,https://www.openstreetmap.org/node/2378183384,,,pastelaría,17
+3,21,Z3-21,Gioli,hairdresser,18,42.2639342,-8.7811353,https://www.openstreetmap.org/node/2378183385,,,perruquería,18
+3,22,Z3-22,O Cangaceiro,cafe,preto de Rúa Méndez Núñez,42.2639418,-8.7810372,https://www.openstreetmap.org/node/2469084792,,,cafetería,preto de Rúa Méndez Núñez
+3,23,Z3-23,Movil Phone,mobile_phone,preto de Rúa Méndez Núñez,42.2639569,-8.7809656,https://www.openstreetmap.org/node/11158786125,,,telefonía móbil,preto de Rúa Méndez Núñez
+3,24,Z3-24,General Optica,optician,preto de Praza da Deputación,42.2639658,-8.7808643,https://www.openstreetmap.org/node/11158773280,,,óptica,preto de Praza da Deputación
+3,25,Z3-25,(local sen nome no mapa),greengrocer,preto de Paseo Castelao,42.2641875,-8.7802183,https://www.openstreetmap.org/node/2383762714,,,froitería,preto de Paseo Castelao
+3,26,Z3-26,(local sen nome no mapa),greengrocer,preto de Rúa Méndez Núñez,42.2641899,-8.7800730,https://www.openstreetmap.org/node/2383762716,,,froitería,preto de Rúa Méndez Núñez
+3,27,Z3-27,La bodega de Maria,cafe,Praza das Pontes 35,42.2639066,-8.7797404,https://www.openstreetmap.org/node/2456834045,,,cafetería,Praza das Pontes 35
+3,28,Z3-28,O zapato chispón,shoes,preto de Rúa Méndez Núñez,42.2638476,-8.7815864,https://www.openstreetmap.org/node/2459088289,,,zapataría,preto de Rúa Méndez Núñez
+3,29,Z3-29,Eroski,supermarket,Eirado do Sinal 5,42.2642276,-8.7820979,https://www.openstreetmap.org/node/1908208557,,,supermercado,Eirado do Sinal 5
+3,30,Z3-30,O eirado,cafe,Eirado do Sinal,42.2642028,-8.7821599,https://www.openstreetmap.org/node/2459088291,,,cafetería,Eirado do Sinal
+3,31,Z3-31,La Marina,cafe,Eirado do Sinal,42.2642022,-8.7822064,https://www.openstreetmap.org/node/2459088290,,,cafetería,Eirado do Sinal
+3,32,Z3-32,Ale ali,shoes,preto de Eirado do Sinal,42.2642106,-8.7823573,https://www.openstreetmap.org/node/11158769520,,,zapataría,preto de Eirado do Sinal
+3,33,Z3-33,Pizzería Baratto,restaurant,Eirado do Sinal,42.2642073,-8.7823893,https://www.openstreetmap.org/node/2122608430,,,restaurante,Eirado do Sinal
+3,34,Z3-34,Dimaro,bar,preto de Rúa do Sol,42.2641531,-8.7824830,https://www.openstreetmap.org/node/11158744187,,,bar,preto de Rúa do Sol
+3,35,Z3-35,Leiro,hairdresser,Rúa Retama,42.2640535,-8.7826592,https://www.openstreetmap.org/node/2459088288,,,perruquería,Rúa Retama
+3,36,Z3-36,Medora,bar,Rúa do Sol,42.2641376,-8.7827804,https://www.openstreetmap.org/node/2469084813,,,bar,Rúa do Sol
+3,37,Z3-37,Tapería O Pelao,restaurant,Rúa do Sol 29,42.2641898,-8.7827323,https://www.openstreetmap.org/node/2122608446,,,restaurante,Rúa do Sol 29
+3,38,Z3-38,Sipi nopi,clothes,Rúa do Sol,42.2641919,-8.7829489,https://www.openstreetmap.org/node/2472336279,,,roupa,Rúa do Sol
+3,39,Z3-39,Airiños,hotel,Avenida Eugenio Sequeiros 30,42.2639325,-8.7825766,https://www.openstreetmap.org/way/397522968,,,hotel,Avenida Eugenio Sequeiros 30
+3,40,Z3-40,Airiños,cafe,preto de Rúa Marina,42.2638257,-8.7825131,https://www.openstreetmap.org/node/4102048491,,,cafetería,preto de Rúa Marina
+3,41,Z3-41,Chocolatier,chocolate,preto de Rúa Marina,42.2639019,-8.7824076,https://www.openstreetmap.org/node/11158844134,,,chocolataría,preto de Rúa Marina
+3,42,Z3-42,stylo,hairdresser,Eirado do Sinal,42.2639857,-8.7823602,https://www.openstreetmap.org/node/2472336248,,,perruquería,Eirado do Sinal
+3,43,Z3-43,Joyeria relojeria Fernandez,jewelry,preto de Avenida Eugenio Sequeiros,42.2637607,-8.7827576,https://www.openstreetmap.org/node/11158829026,,,xoiería,preto de Avenida Eugenio Sequeiros
+3,44,Z3-44,Cangas Galicia,gift,preto de Avenida Eugenio Sequeiros,42.2637519,-8.7827915,https://www.openstreetmap.org/node/11158829027,,,gift,preto de Avenida Eugenio Sequeiros
+3,45,Z3-45,Complementos Blanca,jewelry,preto de Avenida Eugenio Sequeiros,42.2637249,-8.7829479,https://www.openstreetmap.org/node/11158830497,,,xoiería,preto de Avenida Eugenio Sequeiros
+4,1,Z4-01,(local sen nome no mapa),pub,preto de Avenida de Ourense,42.2634164,-8.7748330,https://www.openstreetmap.org/node/13001773671,,,pub,preto de Avenida de Ourense
+4,2,Z4-02,Casa Eladio,restaurant,preto de Rúa Félix Ozámiz,42.2638714,-8.7756247,https://www.openstreetmap.org/node/2464170143,,,restaurante,preto de Rúa Félix Ozámiz
+4,3,Z4-03,(local sen nome no mapa),sawmill,preto de Avenida de Ourense,42.2642211,-8.7764179,https://www.openstreetmap.org/way/912396263,,,serraría,preto de Avenida de Ourense
+4,4,Z4-04,Argólide,bar,preto de Rúa Félix Ozámiz,42.2639796,-8.7767400,https://www.openstreetmap.org/node/2479992428,,,bar,preto de Rúa Félix Ozámiz
+4,5,Z4-05,O Bruño,restaurant,Rúa Celso Emilio Ferreiro 10,42.2635663,-8.7770758,https://www.openstreetmap.org/node/13001773672,,,restaurante,Rúa Celso Emilio Ferreiro 10
+4,6,Z4-06,El Bribón de la Habana,restaurant,Paseo José Santos Rodríguez 13,42.2635343,-8.7777188,https://www.openstreetmap.org/node/13001773679,,,restaurante,Paseo José Santos Rodríguez 13
+4,7,Z4-07,A meiga,fast_food,preto de Rúa Félix Ozámiz,42.2638953,-8.7782767,https://www.openstreetmap.org/node/2479992446,,,comida rápida,preto de Rúa Félix Ozámiz
+4,8,Z4-08,mesón o Pilar,restaurant,preto de Rúa Félix Ozámiz,42.2639230,-8.7784612,https://www.openstreetmap.org/node/2493642894,,,restaurante,preto de Rúa Félix Ozámiz
+4,9,Z4-09,la fiorentina,bakery,preto de Rúa Félix Ozámiz,42.2639191,-8.7786556,https://www.openstreetmap.org/node/2464170140,,,panadaría,preto de Rúa Félix Ozámiz
+4,10,Z4-10,arco da lúa,cafe,preto de Rúa Félix Ozámiz,42.2640522,-8.7785961,https://www.openstreetmap.org/node/2493642893,,,cafetería,preto de Rúa Félix Ozámiz
+4,11,Z4-11,El Escorado,restaurant,preto de Rúa Félix Ozámiz,42.2640582,-8.7783069,https://www.openstreetmap.org/node/2479992469,,,restaurante,preto de Rúa Félix Ozámiz
+4,12,Z4-12,La Suprema,restaurant,Paseo José Santos Rodríguez 6,42.2637345,-8.7784318,https://www.openstreetmap.org/node/13001847504,,,restaurante,Paseo José Santos Rodríguez 6
+4,13,Z4-13,Ardora Rest Club,restaurant,preto de Rúa San Xoán de Cangas,42.2637343,-8.7788342,https://www.openstreetmap.org/node/12163124980,,,restaurante,preto de Rúa San Xoán de Cangas
+4,14,Z4-14,El hormiguero,cafe,preto de Rúa San Xoán de Cangas,42.2637289,-8.7788900,https://www.openstreetmap.org/node/2456836659,,,cafetería,preto de Rúa San Xoán de Cangas
+4,15,Z4-15,Café-heladeria la Fiorentina,cafe,Praza das Pontes,42.2639099,-8.7794439,https://www.openstreetmap.org/node/4712445889,,,cafetería,Praza das Pontes
+4,16,Z4-16,La Salada Burger,fast_food,Paseo José Santos Rodríguez 5,42.2639011,-8.7795468,https://www.openstreetmap.org/node/2456836625,,,comida rápida,Paseo José Santos Rodríguez 5
+4,17,Z4-17,(local sen nome no mapa),florist,preto de Avenida de Ourense,42.2642431,-8.7795250,https://www.openstreetmap.org/node/2383762719,,,floraría,preto de Avenida de Ourense
+4,18,Z4-18,por definir,shoes,preto de Avenida de Ourense,42.2642429,-8.7794667,https://www.openstreetmap.org/node/2972634912,,,zapataría,preto de Avenida de Ourense
+4,19,Z4-19,AlterNativa,baby_goods,preto de Avenida de Ourense,42.2642464,-8.7793842,https://www.openstreetmap.org/node/2972634911,,,artigos para bebés,preto de Avenida de Ourense
+4,20,Z4-20,(local sen nome no mapa),pharmacy,preto de Avenida de Ourense,42.2642688,-8.7792984,https://www.openstreetmap.org/node/2383762721,,,farmacia,preto de Avenida de Ourense
+4,21,Z4-21,(local sen nome no mapa),hardware,preto de Avenida de Ourense,42.2643242,-8.7789757,https://www.openstreetmap.org/node/2383762730,,,ferraxaría,preto de Avenida de Ourense
+4,22,Z4-22,(local sen nome no mapa),pharmacy,preto de Avenida de Ourense,42.2643446,-8.7788271,https://www.openstreetmap.org/node/2383762732,,,farmacia,preto de Avenida de Ourense
+4,23,Z4-23,Noêtta Clothing Store,clothes,Rúa Noria 2,42.2646742,-8.7788168,https://www.openstreetmap.org/node/6266111845,,,roupa,Rúa Noria 2
+4,24,Z4-24,(local sen nome no mapa),kiosk,Avenida de Marín,42.2647542,-8.7794667,https://www.openstreetmap.org/node/6299375377,,,quiosco,Avenida de Marín
+4,25,Z4-25,Faro das Cores,arts_centre,Rua Noria 4,42.2653517,-8.7784150,https://www.openstreetmap.org/node/13611448815,,,centro cultural,Rua Noria 4
+4,26,Z4-26,Obelix,restaurant,preto de Rúa Redondela,42.2658845,-8.7784871,https://www.openstreetmap.org/node/9464221884,,,restaurante,preto de Rúa Redondela
+4,27,Z4-27,Habelas Hailas,restaurant,Rúa Atranco 17,42.2653660,-8.7774884,https://www.openstreetmap.org/node/14069959396,,,restaurante,Rúa Atranco 17
+4,28,Z4-28,Máster Zap Cangas,shoemaker,Travesía Rúa Atranco 19,42.2651115,-8.7777428,https://www.openstreetmap.org/node/6329548071,,,zapateiro/a,Travesía Rúa Atranco 19
+4,29,Z4-29,(local sen nome no mapa),swimming_pool,preto de Rúa Aldea de Arriba,42.2645749,-8.7752558,https://www.openstreetmap.org/way/1026494777,,,piscina,preto de Rúa Aldea de Arriba
+4,30,Z4-30,Maui Rodeira,pub,preto de 4ª Travesía Ourense,42.2630536,-8.7732268,https://www.openstreetmap.org/node/2464170146,,,pub,preto de 4ª Travesía Ourense
+4,31,Z4-31,(local sen nome no mapa),pub,preto de 5ª Travesía Ourense,42.2625706,-8.7717416,https://www.openstreetmap.org/node/13001773670,,,pub,preto de 5ª Travesía Ourense
+4,32,Z4-32,La Jaima de Rodeira,pub,preto de 6ª Travesía Ourense,42.2623728,-8.7710679,https://www.openstreetmap.org/node/12996093860,,,pub,preto de 6ª Travesía Ourense
+4,33,Z4-33,Pistas Deportivas do Kenyata,sports_centre,preto de 6ª Travesía Ourense,42.2626185,-8.7703204,https://www.openstreetmap.org/way/245131140,,,centro deportivo,preto de 6ª Travesía Ourense
+4,34,Z4-34,Café Panacota,cafe,Avenida de Ourense 80,42.2629471,-8.7700306,https://www.openstreetmap.org/node/12191792940,,,cafetería,Avenida de Ourense 80
+4,35,Z4-35,Inmobiliaria Paredes,estate_agent,Avenida de Ourense 86,42.2629686,-8.7696364,https://www.openstreetmap.org/node/12191828586,,,inmobiliaria,Avenida de Ourense 86
+4,36,Z4-36,Hotel & Apartamentos Rodeiramar 2A,hotel,Avenida de Ourense 76,42.2623901,-8.7695968,https://www.openstreetmap.org/way/675452178,,,hotel,Avenida de Ourense 76
+4,37,Z4-37,Hotel Playa,hotel,8ª Travesía Ourense,42.2618733,-8.7696339,https://www.openstreetmap.org/way/1030525309,,,hotel,8ª Travesía Ourense
+4,38,Z4-38,Chiringo Tiramillas,cafe,preto de Camiño da Garita,42.2613630,-8.7677924,https://www.openstreetmap.org/node/2394224827,,,cafetería,preto de Camiño da Garita
+4,39,Z4-39,Tienda de Long,variety_store,preto de Avenida Xosé María Castroviejo,42.2628822,-8.7669395,https://www.openstreetmap.org/node/11196321162,,,tenda multiproduto,preto de Avenida Xosé María Castroviejo
+4,40,Z4-40,Taberna Guimerans,restaurant,preto de Avenida do Espírito Santo,42.2644256,-8.7701169,https://www.openstreetmap.org/way/1026500739,,,restaurante,preto de Avenida do Espírito Santo
+4,41,Z4-41,Areeiro Cangas,restaurant,preto de Avenida de Ourense,42.2633090,-8.7706987,https://www.openstreetmap.org/node/9464209189,,,restaurante,preto de Avenida de Ourense
+4,42,Z4-42,Claudio,supermarket,preto de Avenida de Ourense,42.2634236,-8.7714779,https://www.openstreetmap.org/node/9464209175,,,supermercado,preto de Avenida de Ourense
+4,43,Z4-43,Margarita Rodríguez Lantarón,pharmacy,Espiritu Santo,42.2666970,-8.7691590,https://www.openstreetmap.org/node/4101924129,,,farmacia,Espiritu Santo
+4,44,Z4-44,La Fábrica,bar,preto de Camiño da Garita,42.2599505,-8.7660906,https://www.openstreetmap.org/node/4637733181,,,bar,preto de Camiño da Garita
+4,45,Z4-45,La Garita,guest_house,preto de Camiño da Garita,42.2590976,-8.7654498,https://www.openstreetmap.org/node/4637733182,,,pensión,preto de Camiño da Garita
+5,1,Z5-01,Joyería Relojería Paz,jewelry,preto de Praza do Arco,42.2629263,-8.7854985,https://www.openstreetmap.org/node/1918280677,,,xoiería,preto de Praza do Arco
+5,2,Z5-02,(local sen nome no mapa),hairdresser,preto de Rúa do Arco,42.2629889,-8.7856542,https://www.openstreetmap.org/node/1918280713,,,perruquería,preto de Rúa do Arco
+5,3,Z5-03,Taberna O Arco,restaurant,preto de Praza do Arco,42.2629321,-8.7857055,https://www.openstreetmap.org/node/1918280679,,,restaurante,preto de Praza do Arco
+5,4,Z5-04,Café-Bar Alameda,bar,preto de Praza do Arco,42.2627837,-8.7856642,https://www.openstreetmap.org/node/1592817077,,,bar,preto de Praza do Arco
+5,5,Z5-05,Pillados,clothes,preto de Praza do Arco,42.2627742,-8.7855937,https://www.openstreetmap.org/node/2467881838,,,roupa,preto de Praza do Arco
+5,6,Z5-06,(local sen nome no mapa),hairdresser,preto de Praza Progreso,42.2625623,-8.7855201,https://www.openstreetmap.org/node/4102048501,,,perruquería,preto de Praza Progreso
+5,7,Z5-07,(local sen nome no mapa),clothes,preto de Rúa Alfredo Saralegui,42.2625321,-8.7855393,https://www.openstreetmap.org/node/4102048500,,,roupa,preto de Rúa Alfredo Saralegui
+5,8,Z5-08,(local sen nome no mapa),clothes;gift,preto de Avenida Eduardo Vicenti,42.2625495,-8.7854355,https://www.openstreetmap.org/node/1923768644,,,roupa e agasallos,preto de Avenida Eduardo Vicenti
+5,9,Z5-09,(local sen nome no mapa),newsagent,preto de Avenida Eduardo Vicenti,42.2624534,-8.7854684,https://www.openstreetmap.org/node/4102048502,,,newsagent,preto de Avenida Eduardo Vicenti
+5,10,Z5-10,(local sen nome no mapa),lottery,preto de Avenida Eduardo Vicenti,42.2623128,-8.7854380,https://www.openstreetmap.org/node/4102081776,,,lotería,preto de Avenida Eduardo Vicenti
+5,11,Z5-11,Bar-café Alondras,cafe,Avenida Eduardo Vicenti,42.2622090,-8.7854188,https://www.openstreetmap.org/node/4712445691,,,cafetería,Avenida Eduardo Vicenti
+5,12,Z5-12,Taperia Aruba,restaurant,preto de Rúa Alfredo Saralegui,42.2619857,-8.7856124,https://www.openstreetmap.org/node/2497942397,,,restaurante,preto de Rúa Alfredo Saralegui
+5,13,Z5-13,(local sen nome no mapa),hairdresser,preto de Rúa Alfredo Saralegui,42.2618956,-8.7856042,https://www.openstreetmap.org/node/2497942396,,,perruquería,preto de Rúa Alfredo Saralegui
+5,14,Z5-14,Paxarim,cafe,Avenida Montero Ríos,42.2618807,-8.7854356,https://www.openstreetmap.org/node/4637733180,,,cafetería,Avenida Montero Ríos
+5,15,Z5-15,Carnicería Oporto,butcher,Avenida Montero Ríos,42.2617542,-8.7854422,https://www.openstreetmap.org/node/4637733178,,,carnizaría,Avenida Montero Ríos
+5,16,Z5-16,METRA Topografía,company,Rúa Bos Aires 16,42.2620391,-8.7857304,https://www.openstreetmap.org/node/8372700118,,,empresa,Rúa Bos Aires 16
+5,17,Z5-17,(local sen nome no mapa),cafe,preto de Paseo Marítimo,42.2617353,-8.7847366,https://www.openstreetmap.org/node/1923768635,,,cafetería,preto de Paseo Marítimo
+5,18,Z5-18,(local sen nome no mapa),cafe,preto de Paseo Marítimo,42.2614715,-8.7836740,https://www.openstreetmap.org/node/2383762688,,,cafetería,preto de Paseo Marítimo
+5,19,Z5-19,Os Gofres,kiosk,Rúa Xosé Félix Soage,42.2626174,-8.7848972,https://www.openstreetmap.org/way/1041451728,,,quiosco,Rúa Xosé Félix Soage
+5,20,Z5-20,(local sen nome no mapa),kiosk,preto de Avenida do 25 de Xullo,42.2626248,-8.7849021,https://www.openstreetmap.org/node/1592817080,,,quiosco,preto de Avenida do 25 de Xullo
+5,21,Z5-21,Churrería Montes,fast_food,preto de Paseo Castelao,42.2630304,-8.7844498,https://www.openstreetmap.org/node/4712501590,,,comida rápida,preto de Paseo Castelao
+5,22,Z5-22,Praza de Abastos,marketplace,preto de Avenida Eduardo Vicenti,42.2632096,-8.7843111,https://www.openstreetmap.org/way/489431928,,,mercado,preto de Avenida Eduardo Vicenti
+5,23,Z5-23,(local sen nome no mapa),pharmacy,preto de Praza da Constitución,42.2635109,-8.7846643,https://www.openstreetmap.org/node/1592817087,,,farmacia,preto de Praza da Constitución
+5,24,Z5-24,(local sen nome no mapa),optician,preto de Praza da Constitución,42.2634660,-8.7847243,https://www.openstreetmap.org/node/4102048504,,,óptica,preto de Praza da Constitución
+5,25,Z5-25,Inmobiliaria Cangas,estate_agent,Rúa Real,42.2634407,-8.7847856,https://www.openstreetmap.org/node/1923768632,,,inmobiliaria,Rúa Real
+5,26,Z5-26,"Luis Hernández Álvarez, S.L.",hardware,Rúa Real 1,42.2635534,-8.7849554,https://www.openstreetmap.org/node/1923768729,,,ferraxaría,Rúa Real 1
+5,27,Z5-27,Pepa Viñas,hairdresser,preto de Praza da Constitución,42.2635010,-8.7850208,https://www.openstreetmap.org/node/1923768728,,,perruquería,preto de Praza da Constitución
+5,28,Z5-28,La Vaguada,confectionery,preto de Rúa Xosé Félix Soage,42.2634945,-8.7850916,https://www.openstreetmap.org/node/1935310862,,,confeitaría,preto de Rúa Xosé Félix Soage
+5,29,Z5-29,(local sen nome no mapa),fast_food,preto de Praza da Constitución,42.2633818,-8.7850470,https://www.openstreetmap.org/node/1918280678,,,comida rápida,preto de Praza da Constitución
+5,30,Z5-30,Centro Óptico Cangas,optician,preto de Praza da Constitución,42.2633575,-8.7850719,https://www.openstreetmap.org/node/1918280676,,,óptica,preto de Praza da Constitución
+5,31,Z5-31,(local sen nome no mapa),pharmacy,preto de Praza da Constitución,42.2633257,-8.7851142,https://www.openstreetmap.org/node/1918280721,,,farmacia,preto de Praza da Constitución
+5,32,Z5-32,Tapería Martinnus,restaurant,preto de Rúa Pablo Iglesias,42.2631240,-8.7853308,https://www.openstreetmap.org/node/1592817091,,,restaurante,preto de Rúa Pablo Iglesias
+5,33,Z5-33,Los toneles,restaurant,preto de Rúa Antonio Garrelly,42.2630569,-8.7855735,https://www.openstreetmap.org/node/9464221879,,,restaurante,preto de Rúa Antonio Garrelly
+5,34,Z5-34,(local sen nome no mapa),funeral_directors,preto de Rúa Antonio Garrelly,42.2631835,-8.7856383,https://www.openstreetmap.org/node/1592781178,,,funeraria,preto de Rúa Antonio Garrelly
+5,35,Z5-35,Tía Brígida,restaurant,preto de Rúa do Arco,42.2630641,-8.7858231,https://www.openstreetmap.org/node/4102048499,,,restaurante,preto de Rúa do Arco
+5,36,Z5-36,Librería Wells,books,Praza do Arco 5,42.2629105,-8.7859279,https://www.openstreetmap.org/node/4097629668,,,libraría,Praza do Arco 5
+5,37,Z5-37,Conservas Lago Paganini,yes,preto de Rúa Xosé Félix Soage,42.2635541,-8.7852906,https://www.openstreetmap.org/node/9464251278,,,comercio,preto de Rúa Xosé Félix Soage
+5,38,Z5-38,Rogelio Iglesias,bakery,Rúa Real,42.2637217,-8.7850520,https://www.openstreetmap.org/node/3166168442,,,panadaría,Rúa Real
+5,39,Z5-39,Rogelio Iglesias,cafe,Rúa Real,42.2637629,-8.7850789,https://www.openstreetmap.org/node/2113071288,,,cafetería,Rúa Real
+5,40,Z5-40,Tinto Sentido,wine,Rúa Real 8,42.2636126,-8.7848684,https://www.openstreetmap.org/node/11158842168,,,viños,Rúa Real 8
+5,41,Z5-41,Tanatorio de Cangas,funeral_directors,Avenida de Vigo,42.2637103,-8.7867769,https://www.openstreetmap.org/node/1592781577,,,funeraria,Avenida de Vigo
+5,42,Z5-42,(local sen nome no mapa),furniture,preto de Avenida de Vigo,42.2638255,-8.7873321,https://www.openstreetmap.org/node/1592781251,,,mobles,preto de Avenida de Vigo
+5,43,Z5-43,Milar,hifi,Avenida de Vigo 27,42.2638771,-8.7873132,https://www.openstreetmap.org/node/1592780897,,,son e imaxe,Avenida de Vigo 27
+5,44,Z5-44,(local sen nome no mapa),gift,preto de Avenida de Vigo,42.2639505,-8.7873105,https://www.openstreetmap.org/node/1592780906,,,gift,preto de Avenida de Vigo
+5,45,Z5-45,Famila,supermarket,Avenida de Vigo,42.2633834,-8.7874192,https://www.openstreetmap.org/node/4883065782,,,supermercado,Avenida de Vigo
+6,1,Z6-01,Clínica Dental Vitaldent,dentist,Avenida de Vigo 158,42.2580154,-8.7880251,https://www.openstreetmap.org/node/4712529190,,,dentista,Avenida de Vigo 158
+6,2,Z6-02,(local sen nome no mapa),variety_store,Avenida de Bueu,42.2578229,-8.7878529,https://www.openstreetmap.org/node/4712513893,,,tenda multiproduto,Avenida de Bueu
+6,3,Z6-03,Talleres Araúxo,car_repair,Avenida de Vigo,42.2580429,-8.7875001,https://www.openstreetmap.org/node/4712445690,,,taller de automoción,Avenida de Vigo
+6,4,Z6-04,Dia,supermarket,preto de Avenida de Bueu,42.2582394,-8.7871263,https://www.openstreetmap.org/node/4357182816,,,supermercado,preto de Avenida de Bueu
+6,5,Z6-05,Cafeteria videoclub Fotograma,cafe,Rúa Alexandre Cribeiro,42.2585188,-8.7866975,https://www.openstreetmap.org/node/4712513889,,,cafetería,Rúa Alexandre Cribeiro
+6,6,Z6-06,María Antonia Cordeiro Lopez,pharmacy,Bueu,42.2584357,-8.7863479,https://www.openstreetmap.org/node/4101924155,,,farmacia,Bueu
+6,7,Z6-07,Deportes Oliver,sports,Avenida de Bueu,42.2582734,-8.7864708,https://www.openstreetmap.org/node/4712563089,,,artigos deportivos,Avenida de Bueu
+6,8,Z6-08,Froiz,supermarket,preto de Avenida de Bueu,42.2589165,-8.7863893,https://www.openstreetmap.org/node/3572529482,,,supermercado,preto de Avenida de Bueu
+6,9,Z6-09,Cafetería Enziani,cafe,Rua de Fomento,42.2592380,-8.7861793,https://www.openstreetmap.org/node/4712559389,,,cafetería,Rua de Fomento
+6,10,Z6-10,Shell,fuel,Avenida de Bueu 1,42.2590945,-8.7859629,https://www.openstreetmap.org/way/423826058,,,gasolineira,Avenida de Bueu 1
+6,11,Z6-11,Lonxa de Cangas,seafood,preto de Avenida Montero Ríos,42.2598258,-8.7853115,https://www.openstreetmap.org/way/243575766,,,peixaría,preto de Avenida Montero Ríos
+6,12,Z6-12,(local sen nome no mapa),laundry,preto de Rúa de Fomento,42.2602672,-8.7857016,https://www.openstreetmap.org/node/4102081778,,,lavandaría,preto de Rúa de Fomento
+6,13,Z6-13,Efectos navais,outdoor,Rua de Fomento,42.2603486,-8.7859581,https://www.openstreetmap.org/node/4712549089,,,artigos de exterior,Rua de Fomento
+6,14,Z6-14,Restaurante Bitácora,restaurant,Rua de Fomento,42.2605014,-8.7859383,https://www.openstreetmap.org/node/4712513892,,,restaurante,Rua de Fomento
+6,15,Z6-15,Tapería A Lonxa,pub,Avenida Montero Ríos,42.2607678,-8.7856409,https://www.openstreetmap.org/node/4712425489,,,pub,Avenida Montero Ríos
+6,16,Z6-16,Cíes,cafe,preto de Rúa de Fomento,42.2608468,-8.7856149,https://www.openstreetmap.org/node/4357181696,,,cafetería,preto de Rúa de Fomento
+6,17,Z6-17,Óptica Prisma,optician,preto de Avenida Montero Ríos,42.2610224,-8.7855708,https://www.openstreetmap.org/node/2497942366,,,óptica,preto de Avenida Montero Ríos
+6,18,Z6-18,Alain Afflelou,optician,preto de Rúa de Fomento,42.2614144,-8.7855873,https://www.openstreetmap.org/node/2497942393,,,óptica,preto de Rúa de Fomento
+6,19,Z6-19,(local sen nome no mapa),kiosk,preto de Rúa Alfredo Saralegui,42.2615805,-8.7854636,https://www.openstreetmap.org/node/2383762695,,,quiosco,preto de Rúa Alfredo Saralegui
+6,20,Z6-20,Frutas Sol,greengrocer,preto de Rúa Alfredo Saralegui,42.2617116,-8.7854467,https://www.openstreetmap.org/node/2497942395,,,froitería,preto de Rúa Alfredo Saralegui
+6,21,Z6-21,Casa Macillos,restaurant,Rúa Alfredo Saralegui 24,42.2617179,-8.7856064,https://www.openstreetmap.org/node/2383762671,,,restaurante,Rúa Alfredo Saralegui 24
+6,22,Z6-22,Tapería Dos Chatas,restaurant,Rúa Alfredo Saralegui 28,42.2616341,-8.7857004,https://www.openstreetmap.org/node/1905921632,,,restaurante,Rúa Alfredo Saralegui 28
+6,23,Z6-23,Supermercado Familia,supermarket,preto de Avenida de Vigo,42.2615880,-8.7873685,https://www.openstreetmap.org/node/2250945652,,,supermercado,preto de Avenida de Vigo
+6,24,Z6-24,(local sen nome no mapa),fuel,Avenida de Vigo,42.2618539,-8.7878115,https://www.openstreetmap.org/way/496620642,,,gasolineira,Avenida de Vigo
+6,25,Z6-25,(local sen nome no mapa),pet,preto de Avenida de Vigo,42.2587261,-8.7875631,https://www.openstreetmap.org/node/4102081762,,,tenda de animais,preto de Avenida de Vigo
+6,26,Z6-26,Pneumáticos Pedra Alta,car_repair,Avenida de Bueu,42.2575475,-8.7874593,https://www.openstreetmap.org/node/4712559689,,,taller de automoción,Avenida de Bueu
+6,27,Z6-27,Tapería Punta Balea,cafe,Avenida de Bueu 33,42.2568613,-8.7884898,https://www.openstreetmap.org/node/4712445689,,,cafetería,Avenida de Bueu 33
+6,28,Z6-28,Panadería-Pasteleria A Golosa,bakery,Avenida de Bueu,42.2562658,-8.7895743,https://www.openstreetmap.org/node/4712513989,,,panadaría,Avenida de Bueu
+6,29,Z6-29,Julio García Gayo,pharmacy,Bueu 40,42.2559540,-8.7907200,https://www.openstreetmap.org/node/4101923367,,,farmacia,Bueu 40
+6,30,Z6-30,Las Vegas,hotel,preto de Avenida de Pontevedra,42.2556551,-8.7915477,https://www.openstreetmap.org/way/417848084,,,hotel,preto de Avenida de Pontevedra
+6,31,Z6-31,Hotel Las Vegas,hotel,Avenida de Pontevedra 4,42.2555098,-8.7914816,https://www.openstreetmap.org/way/873126498,,,hotel,Avenida de Pontevedra 4
+6,32,Z6-32,(local sen nome no mapa),swimming_pool,preto de Avenida de Pontevedra,42.2554370,-8.7914223,https://www.openstreetmap.org/way/417848082,,,piscina,preto de Avenida de Pontevedra
+6,33,Z6-33,Lidl,supermarket,preto de Avenida de Bueu,42.2549461,-8.7912057,https://www.openstreetmap.org/way/1036332481,,,supermercado,preto de Avenida de Bueu
+6,34,Z6-34,Casa Simón,restaurant,preto de Rúa de Balea Centro,42.2539112,-8.7923164,https://www.openstreetmap.org/node/1595150748,,,restaurante,preto de Rúa de Balea Centro
+6,35,Z6-35,Restaurante/Asador Gatañal,restaurant,Rúa Gatañal 28,42.2556023,-8.7940613,https://www.openstreetmap.org/way/812865346,,,restaurante,Rúa Gatañal 28
+6,36,Z6-36,(local sen nome no mapa),swimming_pool,preto de Rúa As Pontes,42.2558802,-8.7969584,https://www.openstreetmap.org/way/781123894,,,piscina,preto de Rúa As Pontes
+6,37,Z6-37,(local sen nome no mapa),sports_centre,preto de Rúa As Pontes,42.2550566,-8.7972614,https://www.openstreetmap.org/way/311844951,,,centro deportivo,preto de Rúa As Pontes
+6,38,Z6-38,Menduíña,brewery,Rúa Estrada Darbo 16,42.2560844,-8.7988011,https://www.openstreetmap.org/node/8086327420,,,cervexaría,Rúa Estrada Darbo 16
+6,39,Z6-39,AutoRos,car_repair,preto de Rúa Tobal,42.2570517,-8.7976908,https://www.openstreetmap.org/way/844237059,,,taller de automoción,preto de Rúa Tobal
+6,40,Z6-40,(local sen nome no mapa),swimming_pool,preto de Rúa Granxa do Tobal,42.2579830,-8.7964843,https://www.openstreetmap.org/way/873126496,,,piscina,preto de Rúa Granxa do Tobal
+6,41,Z6-41,Hotel H4 Cangas,hotel,Rúa Granxa do Tobal 34,42.2579212,-8.7963861,https://www.openstreetmap.org/way/873126493,,,hotel,Rúa Granxa do Tobal 34
+6,42,Z6-42,(local sen nome no mapa),swimming_pool,preto de Rúa Granxa do Tobal,42.2579630,-8.7963030,https://www.openstreetmap.org/way/873126495,,,piscina,preto de Rúa Granxa do Tobal
+6,43,Z6-43,A Taberna da Laxe,bar,preto de Rúa Estrada Darbo,42.2621344,-8.8039737,https://www.openstreetmap.org/node/5981180941,,,bar,preto de Rúa Estrada Darbo
+6,44,Z6-44,A tenda de Mucha,convenience,preto de Rúa Estrada Darbo,42.2620577,-8.8043780,https://www.openstreetmap.org/node/5607722714,,,tenda de proximidade,preto de Rúa Estrada Darbo
+6,45,Z6-45,A tenda de Mucha,convenience,RúaEstrada Darbo 113,42.2620577,-8.8043780,https://www.openstreetmap.org/node/5607725594,,,tenda de proximidade,RúaEstrada Darbo 113
+6,46,Z6-46,A tenda de. Icha,convenience,preto de Rúa Estrada Darbo,42.2620814,-8.8044990,https://www.openstreetmap.org/node/5981178798,,,tenda de proximidade,preto de Rúa Estrada Darbo
